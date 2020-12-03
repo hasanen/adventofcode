@@ -1,7 +1,7 @@
 use std::env;
 use std::fs;
-use std::str::FromStr;
 
+const TREE: char = "#";
 
 fn main() {
     let args: Vec<String> = env::args().collect();
@@ -20,12 +20,11 @@ fn main() {
 }
 
 fn count_trees(contents: &str, slope_down: usize, slope_right: usize) -> usize {
-    let tree: char = char::from_str("#").unwrap();
     let mut y: usize = 0;
     let mut tree_count: usize = 0;
     for (_index, line) in contents.lines().enumerate().step_by(slope_down) {
         let chars = line.as_bytes();
-        if chars[y] as char == tree {
+        if chars[y] as char == TREE {
             tree_count += 1;
         }
         y += slope_right;
