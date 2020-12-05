@@ -3,15 +3,19 @@ use std::fmt;
 
 pub struct Seat {
     row: u8,
-    column: u8
+    column: u8,
+    pub id: u32
 }
 impl Seat {
     pub fn from_str(line: &str) -> Seat {
         let (row, column) = line.trim().split_at(7);
-        
+        let row_number: u8 = Seat::resolve(row, 0, 127, 'F', 'B');
+        let column_number: u8 = Seat::resolve(column, 0, 8, 'L', 'R');
+
         return Self{
-            row: Seat::resolve(row, 0, 127, 'F', 'B'), 
-            column: Seat::resolve(column, 0, 8, 'L', 'R')
+            row: row_number, 
+            column: column_number,
+            id: row_number as u32 * 8 + column_number as u32
         };
     }
 
@@ -28,15 +32,11 @@ impl Seat {
         }
         return min;
     }
-
-    fn id(&self) -> u32 {
-        return self.row as u32 * 8 + self.column as u32;
-    }
 }
 
 impl Ord for Seat {
     fn cmp(&self, other: &Self) -> Ordering {
-        (self.id()).cmp(&(other.id()))
+        (self.id).cmp(&(other.id))
     }
 }
 impl PartialOrd for Seat {
@@ -47,7 +47,7 @@ impl PartialOrd for Seat {
 
 impl PartialEq for Seat {
     fn eq(&self, other: &Self) -> bool {
-        (self.id()) == (other.id())
+        (self.id) == (other.id)
     }
 }
 
@@ -55,6 +55,6 @@ impl Eq for Seat { }
 
 impl fmt::Display for Seat{
     fn fmt(&self, f: &mut fmt::Formatter<'_>) -> fmt::Result {
-        write!(f, "Row: {}, Column: {}, ID: {}", self.row, self.column, self.id())
+        write!(f, "Row: {}, Column: {}, ID: {}", self.row, self.column, self.id)
     }
 }
