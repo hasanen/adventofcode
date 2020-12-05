@@ -1,0 +1,15 @@
+use std::env;
+use std::fs;
+
+mod seat;
+
+fn main() {
+    let args: Vec<String> = env::args().collect();
+    let filename: &String = &args[1];
+
+    let contents = fs::read_to_string(filename)
+        .expect("Something  went wrong reading the file");
+
+    let highest = contents.lines().map(|line| seat::Seat::from_str(line)).max().unwrap();
+    println!("Seat with highest ID: {}", highest);
+}
