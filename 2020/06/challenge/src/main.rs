@@ -19,6 +19,16 @@ impl AnswerGroup {
         }
         uniq.len()
     }
+
+    fn everyone_answered_yes(&self) -> usize {
+        let mut clone = self.answers.clone();
+        clone.sort_by(|a, b| a.len().cmp(&b.len()));
+        clone
+            .first().unwrap()
+            .chars()
+            .filter(|c| self.answers.iter().filter(|a| a.contains(&*c.to_string())).count() == self.answers.len())
+            .count()
+    }
 }
 
 fn main() {
@@ -30,5 +40,6 @@ fn main() {
 
     let groups: Vec<AnswerGroup> = contents.split("\n\n").map (|group_text| AnswerGroup::from_str(group_text)).collect();
 
-    println!("Total count: {}", groups.iter().map(|ag| ag.uniq_yes_answers()).sum::<usize>());
+    println!("Count all yes answers: {}", groups.iter().map(|ag| ag.uniq_yes_answers()).sum::<usize>());
+    println!("Count answers which everyone answered yes: {}", groups.iter().map(|ag| ag.everyone_answered_yes()).sum::<usize>());
 }
