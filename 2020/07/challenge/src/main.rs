@@ -47,13 +47,18 @@ fn main() {
     let mut bag_count: u16 = 0;
     for bag in bags.iter() {
         if can_hold_bag(&bags, &bag.color, &desired_color) {
-            bag_count += 1
+            bag_count += 1;
         }
     }
     println!(
         "{} bags can eventually contain {} bag",
         bag_count - 1,
         desired_color
+    );
+    println!(
+        "{} can hold on total of {} bags",
+        desired_color,
+        total_bag_count_for_color(&bags, desired_color) - 1
     );
 }
 
@@ -74,4 +79,13 @@ fn can_hold_bag(bags: &Vec<Bag>, color: &str, desired_color: &str) -> bool {
             false
         }
     }
+}
+fn total_bag_count_for_color(bags: &Vec<Bag>, desired_color: &str) -> usize {
+    let bag: &Bag = bags.iter().find(|b| b.color == desired_color).unwrap();
+    let mut total: usize = 1;
+    for (color, amount) in bag.contents.iter() {
+        let sum = *amount as usize * total_bag_count_for_color(bags, &color);
+        total += sum;
+    }
+    total
 }
