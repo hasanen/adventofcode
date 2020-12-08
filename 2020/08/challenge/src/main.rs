@@ -71,12 +71,12 @@ fn challenge2(instructions: &Vec<Instruction>) -> isize {
         .enumerate()
         .map(|(index, i)| {
             if i.operation == Operation::NOP || i.operation == Operation::JMP {
-                index
+                index as isize
             } else {
-                99999999999
+                -1
             }
         })
-        .filter(|v| v < &9999999999)
+        .filter(|v| v > &0)
         .enumerate()
     {
         let mut index: usize = 0;
@@ -90,9 +90,9 @@ fn challenge2(instructions: &Vec<Instruction>) -> isize {
             instructions_ran.push(index);
             let instruction = instructions.get(index).unwrap();
             let mut op: &Operation = &instruction.operation;
-            if nop_jmp_index == index && op == &Operation::NOP {
+            if nop_jmp_index as usize == index && op == &Operation::NOP {
                 op = &Operation::JMP
-            } else if nop_jmp_index == index && op == &Operation::JMP {
+            } else if nop_jmp_index as usize == index && op == &Operation::JMP {
                 op = &Operation::NOP
             }
             match &op {
@@ -107,6 +107,7 @@ fn challenge2(instructions: &Vec<Instruction>) -> isize {
             }
         }
         if value > 0 {
+            println!("Change needed to be made for line {}", nop_jmp_index + 1);
             break;
         };
     }
