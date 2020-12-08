@@ -1,6 +1,7 @@
 use std::env;
 use std::fs;
 
+#[derive(PartialEq, Debug)]
 enum Operation {
     NOP,
     ACC,
@@ -38,6 +39,11 @@ fn main() {
         .map(|l| Instruction::from_str(l))
         .collect();
 
+    println!("Value after first round is {}", challenge1(&instructions));
+    println!("Value of fixed boot sequence {}", challenge2(&instructions));
+}
+
+fn challenge1(instructions: &Vec<Instruction>) -> isize {
     let mut index: usize = 0;
     let mut instructions_ran: Vec<usize> = Vec::new();
     let mut value: isize = 0;
@@ -55,5 +61,54 @@ fn main() {
             Operation::NOP => index += 1,
         }
     }
-    println!("Value after first round is {}", value);
+    value
+}
+
+fn challenge2(instructions: &Vec<Instruction>) -> isize {
+    let mut value: isize = 0;
+    for (_nop_jmp_index, nop_jmp_index) in instructions
+        .iter()
+        .enumerate()
+        .map(|(index, i)| {
+            if i.operation == Operation::NOP || i.operation == Operation::JMP {
+                index
+            } else {
+                99999999999
+            }
+        })
+        .filter(|v| v < &9999999999)
+        .enumerate()
+    {
+        let mut index: usize = 0;
+        let mut instructions_ran: Vec<usize> = Vec::new();
+        while index < instructions.len() {
+            if instructions_ran.contains(&index) {
+                value = 0;
+                instructions_ran.clear();
+                break;
+            }
+            instructions_ran.push(index);
+            let instruction = instructions.get(index).unwrap();
+            let mut op: &Operation = &instruction.operation;
+            if nop_jmp_index == index && op == &Operation::NOP {
+                op = &Operation::JMP
+            } else if nop_jmp_index == index && op == &Operation::JMP {
+                op = &Operation::NOP
+            }
+            match &op {
+                Operation::ACC => {
+                    value += instruction.argument;
+                    index += 1;
+                }
+                Operation::JMP => {
+                    index = (index as isize + instruction.argument) as usize;
+                }
+                Operation::NOP => index += 1,
+            }
+        }
+        if value > 0 {
+            break;
+        };
+    }
+    value
 }
