@@ -12,7 +12,9 @@ fn main() {
         .map(|l| l.parse::<usize>().unwrap() )
         .collect();
 
-    println!("First number with preamble {} that is not sum of two numbers is {:?}", preamble, numbers_not_sum_in_last_n_numbers(&numbers, *preamble).first());
+    let number: usize = **numbers_not_sum_in_last_n_numbers(&numbers, *preamble).first().unwrap();
+    println!("First number with preamble {} that is not sum of two numbers is {:?}", preamble, number);
+    println!("Sum of min and max is {}", sum_of_min_and_max_in_contiguous_set_for(&numbers, number));
 }
 fn numbers_not_sum_in_last_n_numbers(numbers: &Vec<usize>, preamble: usize ) -> Vec<&usize>  {
     let mut numbers_not_sum: Vec<&usize> = Vec::new();
@@ -32,10 +34,27 @@ fn is_sum(numbers: &[usize], number: usize) -> bool{
                 continue
             }
             if number1 + number2 == number {
-
                 return true
             }
         }
     }
     false
+}
+fn sum_of_min_and_max_in_contiguous_set_for(numbers: &Vec<usize>, number: usize ) -> usize {
+    for start_index in 0..numbers.len() {
+        let mut nums: Vec<usize> = Vec::new();
+        for i in start_index..numbers.len() {
+            let v: usize = numbers[i];
+            nums.push(v);
+            if i > 2 {
+                let sum: usize = nums.iter().sum();
+                if sum == number {
+                    return nums.iter().min().unwrap() + nums.iter().max().unwrap();
+                } else if sum > number{
+                    break;
+                }
+            }
+        }
+    }
+    0
 }
