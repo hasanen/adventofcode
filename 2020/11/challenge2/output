@@ -1,0 +1,2259 @@
+POint 0, 0
+Checking point 0, 1 (0, 1) = .
+Checking point 0, 2 (0, 1) = L
+Checking point 1, 1 (1, 1) = L
+Checking point 1, 0 (1, 0) = L
+Point 0, 0 has seats taken in 0 directions
+POint 0, 1
+Checking point 0, 2 (0, 1) = L
+Checking point 1, 2 (1, 1) = L
+Checking point 1, 1 (1, 0) = L
+Checking point 1, 0 (1, -1) = L
+Checking point 0, 0 (0, -1) = L
+Point 0, 1 has seats taken in 0 directions
+POint 0, 2
+Checking point 0, 3 (0, 1) = L
+Checking point 1, 3 (1, 1) = L
+Checking point 1, 2 (1, 0) = L
+Checking point 1, 1 (1, -1) = L
+Checking point 0, 1 (0, -1) = .
+Checking point 0, 0 (0, -1) = L
+Point 0, 2 has seats taken in 0 directions
+POint 0, 3
+Checking point 0, 4 (0, 1) = .
+Checking point 0, 5 (0, 1) = L
+Checking point 1, 4 (1, 1) = L
+Checking point 1, 3 (1, 0) = L
+Checking point 1, 2 (1, -1) = L
+Checking point 0, 2 (0, -1) = L
+Point 0, 3 has seats taken in 0 directions
+POint 0, 4
+Checking point 0, 5 (0, 1) = L
+Checking point 1, 5 (1, 1) = L
+Checking point 1, 4 (1, 0) = L
+Checking point 1, 3 (1, -1) = L
+Checking point 0, 3 (0, -1) = L
+Point 0, 4 has seats taken in 0 directions
+POint 0, 5
+Checking point 0, 6 (0, 1) = L
+Checking point 1, 6 (1, 1) = L
+Checking point 1, 5 (1, 0) = L
+Checking point 1, 4 (1, -1) = L
+Checking point 0, 4 (0, -1) = .
+Checking point 0, 3 (0, -1) = L
+Point 0, 5 has seats taken in 0 directions
+POint 0, 6
+Checking point 0, 7 (0, 1) = .
+Checking point 0, 8 (0, 1) = L
+Checking point 1, 7 (1, 1) = .
+Checking point 2, 8 (1, 1) = .
+Checking point 3, 9 (1, 1) = L
+Checking point 1, 6 (1, 0) = L
+Checking point 1, 5 (1, -1) = L
+Checking point 0, 5 (0, -1) = L
+Point 0, 6 has seats taken in 0 directions
+POint 0, 7
+Checking point 0, 8 (0, 1) = L
+Checking point 1, 8 (1, 1) = L
+Checking point 1, 7 (1, 0) = .
+Checking point 2, 7 (1, 0) = L
+Checking point 1, 6 (1, -1) = L
+Checking point 0, 6 (0, -1) = L
+Point 0, 7 has seats taken in 0 directions
+POint 0, 8
+Checking point 0, 9 (0, 1) = L
+Checking point 1, 9 (1, 1) = L
+Checking point 1, 8 (1, 0) = L
+Checking point 1, 7 (1, -1) = .
+Checking point 2, 6 (1, -1) = .
+Checking point 3, 5 (1, -1) = L
+Checking point 0, 7 (0, -1) = .
+Checking point 0, 6 (0, -1) = L
+Point 0, 8 has seats taken in 0 directions
+POint 0, 9
+Checking point 1, 9 (1, 0) = L
+Checking point 1, 8 (1, -1) = L
+Checking point 0, 8 (0, -1) = L
+Point 0, 9 has seats taken in 0 directions
+POint 1, 0
+Checking point 0, 0 (-1, 0) = L
+Checking point 0, 1 (-1, 1) = .
+Checking point 1, 1 (0, 1) = L
+Checking point 2, 1 (1, 1) = .
+Checking point 3, 2 (1, 1) = L
+Checking point 2, 0 (1, 0) = L
+Point 1, 0 has seats taken in 0 directions
+POint 1, 1
+Checking point 0, 1 (-1, 0) = .
+Checking point 0, 2 (-1, 1) = L
+Checking point 1, 2 (0, 1) = L
+Checking point 2, 2 (1, 1) = L
+Checking point 2, 1 (1, 0) = .
+Checking point 3, 1 (1, 0) = L
+Checking point 2, 0 (1, -1) = L
+Checking point 1, 0 (0, -1) = L
+Checking point 0, 0 (-1, -1) = L
+Point 1, 1 has seats taken in 0 directions
+POint 1, 2
+Checking point 0, 2 (-1, 0) = L
+Checking point 0, 3 (-1, 1) = L
+Checking point 1, 3 (0, 1) = L
+Checking point 2, 3 (1, 1) = .
+Checking point 3, 4 (1, 1) = .
+Checking point 4, 5 (1, 1) = L
+Checking point 2, 2 (1, 0) = L
+Checking point 2, 1 (1, -1) = .
+Checking point 3, 0 (1, -1) = L
+Checking point 1, 1 (0, -1) = L
+Checking point 0, 1 (-1, -1) = .
+Point 1, 2 has seats taken in 0 directions
+POint 1, 3
+Checking point 0, 3 (-1, 0) = L
+Checking point 0, 4 (-1, 1) = .
+Checking point 1, 4 (0, 1) = L
+Checking point 2, 4 (1, 1) = L
+Checking point 2, 3 (1, 0) = .
+Checking point 3, 3 (1, 0) = L
+Checking point 2, 2 (1, -1) = L
+Checking point 1, 2 (0, -1) = L
+Checking point 0, 2 (-1, -1) = L
+Point 1, 3 has seats taken in 0 directions
+POint 1, 4
+Checking point 0, 4 (-1, 0) = .
+Checking point 0, 5 (-1, 1) = L
+Checking point 1, 5 (0, 1) = L
+Checking point 2, 5 (1, 1) = .
+Checking point 3, 6 (1, 1) = L
+Checking point 2, 4 (1, 0) = L
+Checking point 2, 3 (1, -1) = .
+Checking point 3, 2 (1, -1) = L
+Checking point 1, 3 (0, -1) = L
+Checking point 0, 3 (-1, -1) = L
+Point 1, 4 has seats taken in 0 directions
+POint 1, 5
+Checking point 0, 5 (-1, 0) = L
+Checking point 0, 6 (-1, 1) = L
+Checking point 1, 6 (0, 1) = L
+Checking point 2, 6 (1, 1) = .
+Checking point 3, 7 (1, 1) = .
+Checking point 4, 8 (1, 1) = L
+Checking point 2, 5 (1, 0) = .
+Checking point 3, 5 (1, 0) = L
+Checking point 2, 4 (1, -1) = L
+Checking point 1, 4 (0, -1) = L
+Checking point 0, 4 (-1, -1) = .
+Point 1, 5 has seats taken in 0 directions
+POint 1, 6
+Checking point 0, 6 (-1, 0) = L
+Checking point 0, 7 (-1, 1) = .
+Checking point 1, 7 (0, 1) = .
+Checking point 1, 8 (0, 1) = L
+Checking point 2, 7 (1, 1) = L
+Checking point 2, 6 (1, 0) = .
+Checking point 3, 6 (1, 0) = L
+Checking point 2, 5 (1, -1) = .
+Checking point 3, 4 (1, -1) = .
+Checking point 4, 3 (1, -1) = L
+Checking point 1, 5 (0, -1) = L
+Checking point 0, 5 (-1, -1) = L
+Point 1, 6 has seats taken in 0 directions
+POint 1, 7
+Checking point 0, 7 (-1, 0) = .
+Checking point 0, 8 (-1, 1) = L
+Checking point 1, 8 (0, 1) = L
+Checking point 2, 8 (1, 1) = .
+Checking point 3, 9 (1, 1) = L
+Checking point 2, 7 (1, 0) = L
+Checking point 2, 6 (1, -1) = .
+Checking point 3, 5 (1, -1) = L
+Checking point 1, 6 (0, -1) = L
+Checking point 0, 6 (-1, -1) = L
+Point 1, 7 has seats taken in 0 directions
+POint 1, 8
+Checking point 0, 8 (-1, 0) = L
+Checking point 0, 9 (-1, 1) = L
+Checking point 1, 9 (0, 1) = L
+Checking point 2, 9 (1, 1) = .
+Checking point 2, 8 (1, 0) = .
+Checking point 3, 8 (1, 0) = L
+Checking point 2, 7 (1, -1) = L
+Checking point 1, 7 (0, -1) = .
+Checking point 1, 6 (0, -1) = L
+Checking point 0, 7 (-1, -1) = .
+Point 1, 8 has seats taken in 0 directions
+POint 1, 9
+Checking point 0, 9 (-1, 0) = L
+Checking point 2, 9 (1, 0) = .
+Checking point 3, 9 (1, 0) = L
+Checking point 2, 8 (1, -1) = .
+Checking point 3, 7 (1, -1) = .
+Checking point 4, 6 (1, -1) = L
+Checking point 1, 8 (0, -1) = L
+Checking point 0, 8 (-1, -1) = L
+Point 1, 9 has seats taken in 0 directions
+POint 2, 0
+Checking point 1, 0 (-1, 0) = L
+Checking point 1, 1 (-1, 1) = L
+Checking point 2, 1 (0, 1) = .
+Checking point 2, 2 (0, 1) = L
+Checking point 3, 1 (1, 1) = L
+Checking point 3, 0 (1, 0) = L
+Point 2, 0 has seats taken in 0 directions
+POint 2, 1
+Checking point 1, 1 (-1, 0) = L
+Checking point 1, 2 (-1, 1) = L
+Checking point 2, 2 (0, 1) = L
+Checking point 3, 2 (1, 1) = L
+Checking point 3, 1 (1, 0) = L
+Checking point 3, 0 (1, -1) = L
+Checking point 2, 0 (0, -1) = L
+Checking point 1, 0 (-1, -1) = L
+Point 2, 1 has seats taken in 0 directions
+POint 2, 2
+Checking point 1, 2 (-1, 0) = L
+Checking point 1, 3 (-1, 1) = L
+Checking point 2, 3 (0, 1) = .
+Checking point 2, 4 (0, 1) = L
+Checking point 3, 3 (1, 1) = L
+Checking point 3, 2 (1, 0) = L
+Checking point 3, 1 (1, -1) = L
+Checking point 2, 1 (0, -1) = .
+Checking point 2, 0 (0, -1) = L
+Checking point 1, 1 (-1, -1) = L
+Point 2, 2 has seats taken in 0 directions
+POint 2, 3
+Checking point 1, 3 (-1, 0) = L
+Checking point 1, 4 (-1, 1) = L
+Checking point 2, 4 (0, 1) = L
+Checking point 3, 4 (1, 1) = .
+Checking point 4, 5 (1, 1) = L
+Checking point 3, 3 (1, 0) = L
+Checking point 3, 2 (1, -1) = L
+Checking point 2, 2 (0, -1) = L
+Checking point 1, 2 (-1, -1) = L
+Point 2, 3 has seats taken in 0 directions
+POint 2, 4
+Checking point 1, 4 (-1, 0) = L
+Checking point 1, 5 (-1, 1) = L
+Checking point 2, 5 (0, 1) = .
+Checking point 2, 6 (0, 1) = .
+Checking point 2, 7 (0, 1) = L
+Checking point 3, 5 (1, 1) = L
+Checking point 3, 4 (1, 0) = .
+Checking point 4, 4 (1, 0) = .
+Checking point 5, 4 (1, 0) = L
+Checking point 3, 3 (1, -1) = L
+Checking point 2, 3 (0, -1) = .
+Checking point 2, 2 (0, -1) = L
+Checking point 1, 3 (-1, -1) = L
+Point 2, 4 has seats taken in 0 directions
+POint 2, 5
+Checking point 1, 5 (-1, 0) = L
+Checking point 1, 6 (-1, 1) = L
+Checking point 2, 6 (0, 1) = .
+Checking point 2, 7 (0, 1) = L
+Checking point 3, 6 (1, 1) = L
+Checking point 3, 5 (1, 0) = L
+Checking point 3, 4 (1, -1) = .
+Checking point 4, 3 (1, -1) = L
+Checking point 2, 4 (0, -1) = L
+Checking point 1, 4 (-1, -1) = L
+Point 2, 5 has seats taken in 0 directions
+POint 2, 6
+Checking point 1, 6 (-1, 0) = L
+Checking point 1, 7 (-1, 1) = .
+Checking point 0, 8 (-1, 1) = L
+Checking point 2, 7 (0, 1) = L
+Checking point 3, 7 (1, 1) = .
+Checking point 4, 8 (1, 1) = L
+Checking point 3, 6 (1, 0) = L
+Checking point 3, 5 (1, -1) = L
+Checking point 2, 5 (0, -1) = .
+Checking point 2, 4 (0, -1) = L
+Checking point 1, 5 (-1, -1) = L
+Point 2, 6 has seats taken in 0 directions
+POint 2, 7
+Checking point 1, 7 (-1, 0) = .
+Checking point 0, 7 (-1, 0) = .
+Checking point 1, 8 (-1, 1) = L
+Checking point 2, 8 (0, 1) = .
+Checking point 2, 9 (0, 1) = .
+Checking point 3, 8 (1, 1) = L
+Checking point 3, 7 (1, 0) = .
+Checking point 4, 7 (1, 0) = .
+Checking point 5, 7 (1, 0) = .
+Checking point 6, 7 (1, 0) = .
+Checking point 7, 7 (1, 0) = L
+Checking point 3, 6 (1, -1) = L
+Checking point 2, 6 (0, -1) = .
+Checking point 2, 5 (0, -1) = .
+Checking point 2, 4 (0, -1) = L
+Checking point 1, 6 (-1, -1) = L
+Point 2, 7 has seats taken in 0 directions
+POint 2, 8
+Checking point 1, 8 (-1, 0) = L
+Checking point 1, 9 (-1, 1) = L
+Checking point 2, 9 (0, 1) = .
+Checking point 3, 9 (1, 1) = L
+Checking point 3, 8 (1, 0) = L
+Checking point 3, 7 (1, -1) = .
+Checking point 4, 6 (1, -1) = L
+Checking point 2, 7 (0, -1) = L
+Checking point 1, 7 (-1, -1) = .
+Checking point 0, 6 (-1, -1) = L
+Point 2, 8 has seats taken in 0 directions
+POint 2, 9
+Checking point 1, 9 (-1, 0) = L
+Checking point 3, 9 (1, 0) = L
+Checking point 3, 8 (1, -1) = L
+Checking point 2, 8 (0, -1) = .
+Checking point 2, 7 (0, -1) = L
+Checking point 1, 8 (-1, -1) = L
+Point 2, 9 has seats taken in 0 directions
+POint 3, 0
+Checking point 2, 0 (-1, 0) = L
+Checking point 2, 1 (-1, 1) = .
+Checking point 1, 2 (-1, 1) = L
+Checking point 3, 1 (0, 1) = L
+Checking point 4, 1 (1, 1) = .
+Checking point 5, 2 (1, 1) = L
+Checking point 4, 0 (1, 0) = L
+Point 3, 0 has seats taken in 0 directions
+POint 3, 1
+Checking point 2, 1 (-1, 0) = .
+Checking point 1, 1 (-1, 0) = L
+Checking point 2, 2 (-1, 1) = L
+Checking point 3, 2 (0, 1) = L
+Checking point 4, 2 (1, 1) = L
+Checking point 4, 1 (1, 0) = .
+Checking point 5, 1 (1, 0) = .
+Checking point 6, 1 (1, 0) = .
+Checking point 7, 1 (1, 0) = L
+Checking point 4, 0 (1, -1) = L
+Checking point 3, 0 (0, -1) = L
+Checking point 2, 0 (-1, -1) = L
+Point 3, 1 has seats taken in 0 directions
+POint 3, 2
+Checking point 2, 2 (-1, 0) = L
+Checking point 2, 3 (-1, 1) = .
+Checking point 1, 4 (-1, 1) = L
+Checking point 3, 3 (0, 1) = L
+Checking point 4, 3 (1, 1) = L
+Checking point 4, 2 (1, 0) = L
+Checking point 4, 1 (1, -1) = .
+Checking point 5, 0 (1, -1) = L
+Checking point 3, 1 (0, -1) = L
+Checking point 2, 1 (-1, -1) = .
+Checking point 1, 0 (-1, -1) = L
+Point 3, 2 has seats taken in 0 directions
+POint 3, 3
+Checking point 2, 3 (-1, 0) = .
+Checking point 1, 3 (-1, 0) = L
+Checking point 2, 4 (-1, 1) = L
+Checking point 3, 4 (0, 1) = .
+Checking point 3, 5 (0, 1) = L
+Checking point 4, 4 (1, 1) = .
+Checking point 5, 5 (1, 1) = L
+Checking point 4, 3 (1, 0) = L
+Checking point 4, 2 (1, -1) = L
+Checking point 3, 2 (0, -1) = L
+Checking point 2, 2 (-1, -1) = L
+Point 3, 3 has seats taken in 0 directions
+POint 3, 4
+Checking point 2, 4 (-1, 0) = L
+Checking point 2, 5 (-1, 1) = .
+Checking point 1, 6 (-1, 1) = L
+Checking point 3, 5 (0, 1) = L
+Checking point 4, 5 (1, 1) = L
+Checking point 4, 4 (1, 0) = .
+Checking point 5, 4 (1, 0) = L
+Checking point 4, 3 (1, -1) = L
+Checking point 3, 3 (0, -1) = L
+Checking point 2, 3 (-1, -1) = .
+Checking point 1, 2 (-1, -1) = L
+Point 3, 4 has seats taken in 0 directions
+POint 3, 5
+Checking point 2, 5 (-1, 0) = .
+Checking point 1, 5 (-1, 0) = L
+Checking point 2, 6 (-1, 1) = .
+Checking point 1, 7 (-1, 1) = .
+Checking point 0, 8 (-1, 1) = L
+Checking point 3, 6 (0, 1) = L
+Checking point 4, 6 (1, 1) = L
+Checking point 4, 5 (1, 0) = L
+Checking point 4, 4 (1, -1) = .
+Checking point 5, 3 (1, -1) = L
+Checking point 3, 4 (0, -1) = .
+Checking point 3, 3 (0, -1) = L
+Checking point 2, 4 (-1, -1) = L
+Point 3, 5 has seats taken in 0 directions
+POint 3, 6
+Checking point 2, 6 (-1, 0) = .
+Checking point 1, 6 (-1, 0) = L
+Checking point 2, 7 (-1, 1) = L
+Checking point 3, 7 (0, 1) = .
+Checking point 3, 8 (0, 1) = L
+Checking point 4, 7 (1, 1) = .
+Checking point 5, 8 (1, 1) = L
+Checking point 4, 6 (1, 0) = L
+Checking point 4, 5 (1, -1) = L
+Checking point 3, 5 (0, -1) = L
+Checking point 2, 5 (-1, -1) = .
+Checking point 1, 4 (-1, -1) = L
+Point 3, 6 has seats taken in 0 directions
+POint 3, 7
+Checking point 2, 7 (-1, 0) = L
+Checking point 2, 8 (-1, 1) = .
+Checking point 1, 9 (-1, 1) = L
+Checking point 3, 8 (0, 1) = L
+Checking point 4, 8 (1, 1) = L
+Checking point 4, 7 (1, 0) = .
+Checking point 5, 7 (1, 0) = .
+Checking point 6, 7 (1, 0) = .
+Checking point 7, 7 (1, 0) = L
+Checking point 4, 6 (1, -1) = L
+Checking point 3, 6 (0, -1) = L
+Checking point 2, 6 (-1, -1) = .
+Checking point 1, 5 (-1, -1) = L
+Point 3, 7 has seats taken in 0 directions
+POint 3, 8
+Checking point 2, 8 (-1, 0) = .
+Checking point 1, 8 (-1, 0) = L
+Checking point 2, 9 (-1, 1) = .
+Checking point 3, 9 (0, 1) = L
+Checking point 4, 9 (1, 1) = L
+Checking point 4, 8 (1, 0) = L
+Checking point 4, 7 (1, -1) = .
+Checking point 5, 6 (1, -1) = L
+Checking point 3, 7 (0, -1) = .
+Checking point 3, 6 (0, -1) = L
+Checking point 2, 7 (-1, -1) = L
+Point 3, 8 has seats taken in 0 directions
+POint 3, 9
+Checking point 2, 9 (-1, 0) = .
+Checking point 1, 9 (-1, 0) = L
+Checking point 4, 9 (1, 0) = L
+Checking point 4, 8 (1, -1) = L
+Checking point 3, 8 (0, -1) = L
+Checking point 2, 8 (-1, -1) = .
+Checking point 1, 7 (-1, -1) = .
+Checking point 0, 6 (-1, -1) = L
+Point 3, 9 has seats taken in 0 directions
+POint 4, 0
+Checking point 3, 0 (-1, 0) = L
+Checking point 3, 1 (-1, 1) = L
+Checking point 4, 1 (0, 1) = .
+Checking point 4, 2 (0, 1) = L
+Checking point 5, 1 (1, 1) = .
+Checking point 6, 2 (1, 1) = L
+Checking point 5, 0 (1, 0) = L
+Point 4, 0 has seats taken in 0 directions
+POint 4, 1
+Checking point 3, 1 (-1, 0) = L
+Checking point 3, 2 (-1, 1) = L
+Checking point 4, 2 (0, 1) = L
+Checking point 5, 2 (1, 1) = L
+Checking point 5, 1 (1, 0) = .
+Checking point 6, 1 (1, 0) = .
+Checking point 7, 1 (1, 0) = L
+Checking point 5, 0 (1, -1) = L
+Checking point 4, 0 (0, -1) = L
+Checking point 3, 0 (-1, -1) = L
+Point 4, 1 has seats taken in 0 directions
+POint 4, 2
+Checking point 3, 2 (-1, 0) = L
+Checking point 3, 3 (-1, 1) = L
+Checking point 4, 3 (0, 1) = L
+Checking point 5, 3 (1, 1) = L
+Checking point 5, 2 (1, 0) = L
+Checking point 5, 1 (1, -1) = .
+Checking point 6, 0 (1, -1) = .
+Checking point 4, 1 (0, -1) = .
+Checking point 4, 0 (0, -1) = L
+Checking point 3, 1 (-1, -1) = L
+Point 4, 2 has seats taken in 0 directions
+POint 4, 3
+Checking point 3, 3 (-1, 0) = L
+Checking point 3, 4 (-1, 1) = .
+Checking point 2, 5 (-1, 1) = .
+Checking point 1, 6 (-1, 1) = L
+Checking point 4, 4 (0, 1) = .
+Checking point 4, 5 (0, 1) = L
+Checking point 5, 4 (1, 1) = L
+Checking point 5, 3 (1, 0) = L
+Checking point 5, 2 (1, -1) = L
+Checking point 4, 2 (0, -1) = L
+Checking point 3, 2 (-1, -1) = L
+Point 4, 3 has seats taken in 0 directions
+POint 4, 4
+Checking point 3, 4 (-1, 0) = .
+Checking point 2, 4 (-1, 0) = L
+Checking point 3, 5 (-1, 1) = L
+Checking point 4, 5 (0, 1) = L
+Checking point 5, 5 (1, 1) = L
+Checking point 5, 4 (1, 0) = L
+Checking point 5, 3 (1, -1) = L
+Checking point 4, 3 (0, -1) = L
+Checking point 3, 3 (-1, -1) = L
+Point 4, 4 has seats taken in 0 directions
+POint 4, 5
+Checking point 3, 5 (-1, 0) = L
+Checking point 3, 6 (-1, 1) = L
+Checking point 4, 6 (0, 1) = L
+Checking point 5, 6 (1, 1) = L
+Checking point 5, 5 (1, 0) = L
+Checking point 5, 4 (1, -1) = L
+Checking point 4, 4 (0, -1) = .
+Checking point 4, 3 (0, -1) = L
+Checking point 3, 4 (-1, -1) = .
+Checking point 2, 3 (-1, -1) = .
+Checking point 1, 2 (-1, -1) = L
+Point 4, 5 has seats taken in 0 directions
+POint 4, 6
+Checking point 3, 6 (-1, 0) = L
+Checking point 3, 7 (-1, 1) = .
+Checking point 2, 8 (-1, 1) = .
+Checking point 1, 9 (-1, 1) = L
+Checking point 4, 7 (0, 1) = .
+Checking point 4, 8 (0, 1) = L
+Checking point 5, 7 (1, 1) = .
+Checking point 6, 8 (1, 1) = .
+Checking point 7, 9 (1, 1) = L
+Checking point 5, 6 (1, 0) = L
+Checking point 5, 5 (1, -1) = L
+Checking point 4, 5 (0, -1) = L
+Checking point 3, 5 (-1, -1) = L
+Point 4, 6 has seats taken in 0 directions
+POint 4, 7
+Checking point 3, 7 (-1, 0) = .
+Checking point 2, 7 (-1, 0) = L
+Checking point 3, 8 (-1, 1) = L
+Checking point 4, 8 (0, 1) = L
+Checking point 5, 8 (1, 1) = L
+Checking point 5, 7 (1, 0) = .
+Checking point 6, 7 (1, 0) = .
+Checking point 7, 7 (1, 0) = L
+Checking point 5, 6 (1, -1) = L
+Checking point 4, 6 (0, -1) = L
+Checking point 3, 6 (-1, -1) = L
+Point 4, 7 has seats taken in 0 directions
+POint 4, 8
+Checking point 3, 8 (-1, 0) = L
+Checking point 3, 9 (-1, 1) = L
+Checking point 4, 9 (0, 1) = L
+Checking point 5, 9 (1, 1) = L
+Checking point 5, 8 (1, 0) = L
+Checking point 5, 7 (1, -1) = .
+Checking point 6, 6 (1, -1) = .
+Checking point 7, 5 (1, -1) = L
+Checking point 4, 7 (0, -1) = .
+Checking point 4, 6 (0, -1) = L
+Checking point 3, 7 (-1, -1) = .
+Checking point 2, 6 (-1, -1) = .
+Checking point 1, 5 (-1, -1) = L
+Point 4, 8 has seats taken in 0 directions
+POint 4, 9
+Checking point 3, 9 (-1, 0) = L
+Checking point 5, 9 (1, 0) = L
+Checking point 5, 8 (1, -1) = L
+Checking point 4, 8 (0, -1) = L
+Checking point 3, 8 (-1, -1) = L
+Point 4, 9 has seats taken in 0 directions
+POint 5, 0
+Checking point 4, 0 (-1, 0) = L
+Checking point 4, 1 (-1, 1) = .
+Checking point 3, 2 (-1, 1) = L
+Checking point 5, 1 (0, 1) = .
+Checking point 5, 2 (0, 1) = L
+Checking point 6, 1 (1, 1) = .
+Checking point 7, 2 (1, 1) = L
+Checking point 6, 0 (1, 0) = .
+Checking point 7, 0 (1, 0) = L
+Point 5, 0 has seats taken in 0 directions
+POint 5, 1
+Checking point 4, 1 (-1, 0) = .
+Checking point 3, 1 (-1, 0) = L
+Checking point 4, 2 (-1, 1) = L
+Checking point 5, 2 (0, 1) = L
+Checking point 6, 2 (1, 1) = L
+Checking point 6, 1 (1, 0) = .
+Checking point 7, 1 (1, 0) = L
+Checking point 6, 0 (1, -1) = .
+Checking point 5, 0 (0, -1) = L
+Checking point 4, 0 (-1, -1) = L
+Point 5, 1 has seats taken in 0 directions
+POint 5, 2
+Checking point 4, 2 (-1, 0) = L
+Checking point 4, 3 (-1, 1) = L
+Checking point 5, 3 (0, 1) = L
+Checking point 6, 3 (1, 1) = .
+Checking point 7, 4 (1, 1) = L
+Checking point 6, 2 (1, 0) = L
+Checking point 6, 1 (1, -1) = .
+Checking point 7, 0 (1, -1) = L
+Checking point 5, 1 (0, -1) = .
+Checking point 5, 0 (0, -1) = L
+Checking point 4, 1 (-1, -1) = .
+Checking point 3, 0 (-1, -1) = L
+Point 5, 2 has seats taken in 0 directions
+POint 5, 3
+Checking point 4, 3 (-1, 0) = L
+Checking point 4, 4 (-1, 1) = .
+Checking point 3, 5 (-1, 1) = L
+Checking point 5, 4 (0, 1) = L
+Checking point 6, 4 (1, 1) = L
+Checking point 6, 3 (1, 0) = .
+Checking point 7, 3 (1, 0) = L
+Checking point 6, 2 (1, -1) = L
+Checking point 5, 2 (0, -1) = L
+Checking point 4, 2 (-1, -1) = L
+Point 5, 3 has seats taken in 0 directions
+POint 5, 4
+Checking point 4, 4 (-1, 0) = .
+Checking point 3, 4 (-1, 0) = .
+Checking point 2, 4 (-1, 0) = L
+Checking point 4, 5 (-1, 1) = L
+Checking point 5, 5 (0, 1) = L
+Checking point 6, 5 (1, 1) = .
+Checking point 7, 6 (1, 1) = L
+Checking point 6, 4 (1, 0) = L
+Checking point 6, 3 (1, -1) = .
+Checking point 7, 2 (1, -1) = L
+Checking point 5, 3 (0, -1) = L
+Checking point 4, 3 (-1, -1) = L
+Point 5, 4 has seats taken in 0 directions
+POint 5, 5
+Checking point 4, 5 (-1, 0) = L
+Checking point 4, 6 (-1, 1) = L
+Checking point 5, 6 (0, 1) = L
+Checking point 6, 6 (1, 1) = .
+Checking point 7, 7 (1, 1) = L
+Checking point 6, 5 (1, 0) = .
+Checking point 7, 5 (1, 0) = L
+Checking point 6, 4 (1, -1) = L
+Checking point 5, 4 (0, -1) = L
+Checking point 4, 4 (-1, -1) = .
+Checking point 3, 3 (-1, -1) = L
+Point 5, 5 has seats taken in 0 directions
+POint 5, 6
+Checking point 4, 6 (-1, 0) = L
+Checking point 4, 7 (-1, 1) = .
+Checking point 3, 8 (-1, 1) = L
+Checking point 5, 7 (0, 1) = .
+Checking point 5, 8 (0, 1) = L
+Checking point 6, 7 (1, 1) = .
+Checking point 7, 8 (1, 1) = L
+Checking point 6, 6 (1, 0) = .
+Checking point 7, 6 (1, 0) = L
+Checking point 6, 5 (1, -1) = .
+Checking point 7, 4 (1, -1) = L
+Checking point 5, 5 (0, -1) = L
+Checking point 4, 5 (-1, -1) = L
+Point 5, 6 has seats taken in 0 directions
+POint 5, 7
+Checking point 4, 7 (-1, 0) = .
+Checking point 3, 7 (-1, 0) = .
+Checking point 2, 7 (-1, 0) = L
+Checking point 4, 8 (-1, 1) = L
+Checking point 5, 8 (0, 1) = L
+Checking point 6, 8 (1, 1) = .
+Checking point 7, 9 (1, 1) = L
+Checking point 6, 7 (1, 0) = .
+Checking point 7, 7 (1, 0) = L
+Checking point 6, 6 (1, -1) = .
+Checking point 7, 5 (1, -1) = L
+Checking point 5, 6 (0, -1) = L
+Checking point 4, 6 (-1, -1) = L
+Point 5, 7 has seats taken in 0 directions
+POint 5, 8
+Checking point 4, 8 (-1, 0) = L
+Checking point 4, 9 (-1, 1) = L
+Checking point 5, 9 (0, 1) = L
+Checking point 6, 9 (1, 1) = .
+Checking point 6, 8 (1, 0) = .
+Checking point 7, 8 (1, 0) = L
+Checking point 6, 7 (1, -1) = .
+Checking point 7, 6 (1, -1) = L
+Checking point 5, 7 (0, -1) = .
+Checking point 5, 6 (0, -1) = L
+Checking point 4, 7 (-1, -1) = .
+Checking point 3, 6 (-1, -1) = L
+Point 5, 8 has seats taken in 0 directions
+POint 5, 9
+Checking point 4, 9 (-1, 0) = L
+Checking point 6, 9 (1, 0) = .
+Checking point 7, 9 (1, 0) = L
+Checking point 6, 8 (1, -1) = .
+Checking point 7, 7 (1, -1) = L
+Checking point 5, 8 (0, -1) = L
+Checking point 4, 8 (-1, -1) = L
+Point 5, 9 has seats taken in 0 directions
+POint 6, 0
+Checking point 5, 0 (-1, 0) = L
+Checking point 5, 1 (-1, 1) = .
+Checking point 4, 2 (-1, 1) = L
+Checking point 6, 1 (0, 1) = .
+Checking point 6, 2 (0, 1) = L
+Checking point 7, 1 (1, 1) = L
+Checking point 7, 0 (1, 0) = L
+Point 6, 0 has seats taken in 0 directions
+POint 6, 1
+Checking point 5, 1 (-1, 0) = .
+Checking point 4, 1 (-1, 0) = .
+Checking point 3, 1 (-1, 0) = L
+Checking point 5, 2 (-1, 1) = L
+Checking point 6, 2 (0, 1) = L
+Checking point 7, 2 (1, 1) = L
+Checking point 7, 1 (1, 0) = L
+Checking point 7, 0 (1, -1) = L
+Checking point 6, 0 (0, -1) = .
+Checking point 5, 0 (-1, -1) = L
+Point 6, 1 has seats taken in 0 directions
+POint 6, 2
+Checking point 5, 2 (-1, 0) = L
+Checking point 5, 3 (-1, 1) = L
+Checking point 6, 3 (0, 1) = .
+Checking point 6, 4 (0, 1) = L
+Checking point 7, 3 (1, 1) = L
+Checking point 7, 2 (1, 0) = L
+Checking point 7, 1 (1, -1) = L
+Checking point 6, 1 (0, -1) = .
+Checking point 6, 0 (0, -1) = .
+Checking point 5, 1 (-1, -1) = .
+Checking point 4, 0 (-1, -1) = L
+Point 6, 2 has seats taken in 0 directions
+POint 6, 3
+Checking point 5, 3 (-1, 0) = L
+Checking point 5, 4 (-1, 1) = L
+Checking point 6, 4 (0, 1) = L
+Checking point 7, 4 (1, 1) = L
+Checking point 7, 3 (1, 0) = L
+Checking point 7, 2 (1, -1) = L
+Checking point 6, 2 (0, -1) = L
+Checking point 5, 2 (-1, -1) = L
+Point 6, 3 has seats taken in 0 directions
+POint 6, 4
+Checking point 5, 4 (-1, 0) = L
+Checking point 5, 5 (-1, 1) = L
+Checking point 6, 5 (0, 1) = .
+Checking point 6, 6 (0, 1) = .
+Checking point 6, 7 (0, 1) = .
+Checking point 6, 8 (0, 1) = .
+Checking point 6, 9 (0, 1) = .
+Checking point 7, 5 (1, 1) = L
+Checking point 7, 4 (1, 0) = L
+Checking point 7, 3 (1, -1) = L
+Checking point 6, 3 (0, -1) = .
+Checking point 6, 2 (0, -1) = L
+Checking point 5, 3 (-1, -1) = L
+Point 6, 4 has seats taken in 0 directions
+POint 6, 5
+Checking point 5, 5 (-1, 0) = L
+Checking point 5, 6 (-1, 1) = L
+Checking point 6, 6 (0, 1) = .
+Checking point 6, 7 (0, 1) = .
+Checking point 6, 8 (0, 1) = .
+Checking point 6, 9 (0, 1) = .
+Checking point 7, 6 (1, 1) = L
+Checking point 7, 5 (1, 0) = L
+Checking point 7, 4 (1, -1) = L
+Checking point 6, 4 (0, -1) = L
+Checking point 5, 4 (-1, -1) = L
+Point 6, 5 has seats taken in 0 directions
+POint 6, 6
+Checking point 5, 6 (-1, 0) = L
+Checking point 5, 7 (-1, 1) = .
+Checking point 4, 8 (-1, 1) = L
+Checking point 6, 7 (0, 1) = .
+Checking point 6, 8 (0, 1) = .
+Checking point 6, 9 (0, 1) = .
+Checking point 7, 7 (1, 1) = L
+Checking point 7, 6 (1, 0) = L
+Checking point 7, 5 (1, -1) = L
+Checking point 6, 5 (0, -1) = .
+Checking point 6, 4 (0, -1) = L
+Checking point 5, 5 (-1, -1) = L
+Point 6, 6 has seats taken in 0 directions
+POint 6, 7
+Checking point 5, 7 (-1, 0) = .
+Checking point 4, 7 (-1, 0) = .
+Checking point 3, 7 (-1, 0) = .
+Checking point 2, 7 (-1, 0) = L
+Checking point 5, 8 (-1, 1) = L
+Checking point 6, 8 (0, 1) = .
+Checking point 6, 9 (0, 1) = .
+Checking point 7, 8 (1, 1) = L
+Checking point 7, 7 (1, 0) = L
+Checking point 7, 6 (1, -1) = L
+Checking point 6, 6 (0, -1) = .
+Checking point 6, 5 (0, -1) = .
+Checking point 6, 4 (0, -1) = L
+Checking point 5, 6 (-1, -1) = L
+Point 6, 7 has seats taken in 0 directions
+POint 6, 8
+Checking point 5, 8 (-1, 0) = L
+Checking point 5, 9 (-1, 1) = L
+Checking point 6, 9 (0, 1) = .
+Checking point 7, 9 (1, 1) = L
+Checking point 7, 8 (1, 0) = L
+Checking point 7, 7 (1, -1) = L
+Checking point 6, 7 (0, -1) = .
+Checking point 6, 6 (0, -1) = .
+Checking point 6, 5 (0, -1) = .
+Checking point 6, 4 (0, -1) = L
+Checking point 5, 7 (-1, -1) = .
+Checking point 4, 6 (-1, -1) = L
+Point 6, 8 has seats taken in 0 directions
+POint 6, 9
+Checking point 5, 9 (-1, 0) = L
+Checking point 7, 9 (1, 0) = L
+Checking point 7, 8 (1, -1) = L
+Checking point 6, 8 (0, -1) = .
+Checking point 6, 7 (0, -1) = .
+Checking point 6, 6 (0, -1) = .
+Checking point 6, 5 (0, -1) = .
+Checking point 6, 4 (0, -1) = L
+Checking point 5, 8 (-1, -1) = L
+Point 6, 9 has seats taken in 0 directions
+POint 7, 0
+Checking point 6, 0 (-1, 0) = .
+Checking point 5, 0 (-1, 0) = L
+Checking point 6, 1 (-1, 1) = .
+Checking point 5, 2 (-1, 1) = L
+Checking point 7, 1 (0, 1) = L
+Checking point 8, 1 (1, 1) = .
+Checking point 9, 2 (1, 1) = L
+Checking point 8, 0 (1, 0) = L
+Point 7, 0 has seats taken in 0 directions
+POint 7, 1
+Checking point 6, 1 (-1, 0) = .
+Checking point 5, 1 (-1, 0) = .
+Checking point 4, 1 (-1, 0) = .
+Checking point 3, 1 (-1, 0) = L
+Checking point 6, 2 (-1, 1) = L
+Checking point 7, 2 (0, 1) = L
+Checking point 8, 2 (1, 1) = L
+Checking point 8, 1 (1, 0) = .
+Checking point 9, 1 (1, 0) = .
+Checking point 8, 0 (1, -1) = L
+Checking point 7, 0 (0, -1) = L
+Checking point 6, 0 (-1, -1) = .
+Point 7, 1 has seats taken in 0 directions
+POint 7, 2
+Checking point 6, 2 (-1, 0) = L
+Checking point 6, 3 (-1, 1) = .
+Checking point 5, 4 (-1, 1) = L
+Checking point 7, 3 (0, 1) = L
+Checking point 8, 3 (1, 1) = L
+Checking point 8, 2 (1, 0) = L
+Checking point 8, 1 (1, -1) = .
+Checking point 9, 0 (1, -1) = L
+Checking point 7, 1 (0, -1) = L
+Checking point 6, 1 (-1, -1) = .
+Checking point 5, 0 (-1, -1) = L
+Point 7, 2 has seats taken in 0 directions
+POint 7, 3
+Checking point 6, 3 (-1, 0) = .
+Checking point 5, 3 (-1, 0) = L
+Checking point 6, 4 (-1, 1) = L
+Checking point 7, 4 (0, 1) = L
+Checking point 8, 4 (1, 1) = L
+Checking point 8, 3 (1, 0) = L
+Checking point 8, 2 (1, -1) = L
+Checking point 7, 2 (0, -1) = L
+Checking point 6, 2 (-1, -1) = L
+Point 7, 3 has seats taken in 0 directions
+POint 7, 4
+Checking point 6, 4 (-1, 0) = L
+Checking point 6, 5 (-1, 1) = .
+Checking point 5, 6 (-1, 1) = L
+Checking point 7, 5 (0, 1) = L
+Checking point 8, 5 (1, 1) = L
+Checking point 8, 4 (1, 0) = L
+Checking point 8, 3 (1, -1) = L
+Checking point 7, 3 (0, -1) = L
+Checking point 6, 3 (-1, -1) = .
+Checking point 5, 2 (-1, -1) = L
+Point 7, 4 has seats taken in 0 directions
+POint 7, 5
+Checking point 6, 5 (-1, 0) = .
+Checking point 5, 5 (-1, 0) = L
+Checking point 6, 6 (-1, 1) = .
+Checking point 5, 7 (-1, 1) = .
+Checking point 4, 8 (-1, 1) = L
+Checking point 7, 6 (0, 1) = L
+Checking point 8, 6 (1, 1) = L
+Checking point 8, 5 (1, 0) = L
+Checking point 8, 4 (1, -1) = L
+Checking point 7, 4 (0, -1) = L
+Checking point 6, 4 (-1, -1) = L
+Point 7, 5 has seats taken in 0 directions
+POint 7, 6
+Checking point 6, 6 (-1, 0) = .
+Checking point 5, 6 (-1, 0) = L
+Checking point 6, 7 (-1, 1) = .
+Checking point 5, 8 (-1, 1) = L
+Checking point 7, 7 (0, 1) = L
+Checking point 8, 7 (1, 1) = L
+Checking point 8, 6 (1, 0) = L
+Checking point 8, 5 (1, -1) = L
+Checking point 7, 5 (0, -1) = L
+Checking point 6, 5 (-1, -1) = .
+Checking point 5, 4 (-1, -1) = L
+Point 7, 6 has seats taken in 0 directions
+POint 7, 7
+Checking point 6, 7 (-1, 0) = .
+Checking point 5, 7 (-1, 0) = .
+Checking point 4, 7 (-1, 0) = .
+Checking point 3, 7 (-1, 0) = .
+Checking point 2, 7 (-1, 0) = L
+Checking point 6, 8 (-1, 1) = .
+Checking point 5, 9 (-1, 1) = L
+Checking point 7, 8 (0, 1) = L
+Checking point 8, 8 (1, 1) = .
+Checking point 9, 9 (1, 1) = L
+Checking point 8, 7 (1, 0) = L
+Checking point 8, 6 (1, -1) = L
+Checking point 7, 6 (0, -1) = L
+Checking point 6, 6 (-1, -1) = .
+Checking point 5, 5 (-1, -1) = L
+Point 7, 7 has seats taken in 0 directions
+POint 7, 8
+Checking point 6, 8 (-1, 0) = .
+Checking point 5, 8 (-1, 0) = L
+Checking point 6, 9 (-1, 1) = .
+Checking point 7, 9 (0, 1) = L
+Checking point 8, 9 (1, 1) = L
+Checking point 8, 8 (1, 0) = .
+Checking point 9, 8 (1, 0) = L
+Checking point 8, 7 (1, -1) = L
+Checking point 7, 7 (0, -1) = L
+Checking point 6, 7 (-1, -1) = .
+Checking point 5, 6 (-1, -1) = L
+Point 7, 8 has seats taken in 0 directions
+POint 7, 9
+Checking point 6, 9 (-1, 0) = .
+Checking point 5, 9 (-1, 0) = L
+Checking point 8, 9 (1, 0) = L
+Checking point 8, 8 (1, -1) = .
+Checking point 9, 7 (1, -1) = .
+Checking point 7, 8 (0, -1) = L
+Checking point 6, 8 (-1, -1) = .
+Checking point 5, 7 (-1, -1) = .
+Checking point 4, 6 (-1, -1) = L
+Point 7, 9 has seats taken in 0 directions
+POint 8, 0
+Checking point 7, 0 (-1, 0) = L
+Checking point 7, 1 (-1, 1) = L
+Checking point 8, 1 (0, 1) = .
+Checking point 8, 2 (0, 1) = L
+Checking point 9, 1 (1, 1) = .
+Checking point 9, 0 (1, 0) = L
+Point 8, 0 has seats taken in 0 directions
+POint 8, 1
+Checking point 7, 1 (-1, 0) = L
+Checking point 7, 2 (-1, 1) = L
+Checking point 8, 2 (0, 1) = L
+Checking point 9, 2 (1, 1) = L
+Checking point 9, 1 (1, 0) = .
+Checking point 9, 0 (1, -1) = L
+Checking point 8, 0 (0, -1) = L
+Checking point 7, 0 (-1, -1) = L
+Point 8, 1 has seats taken in 0 directions
+POint 8, 2
+Checking point 7, 2 (-1, 0) = L
+Checking point 7, 3 (-1, 1) = L
+Checking point 8, 3 (0, 1) = L
+Checking point 9, 3 (1, 1) = L
+Checking point 9, 2 (1, 0) = L
+Checking point 9, 1 (1, -1) = .
+Checking point 8, 1 (0, -1) = .
+Checking point 8, 0 (0, -1) = L
+Checking point 7, 1 (-1, -1) = L
+Point 8, 2 has seats taken in 0 directions
+POint 8, 3
+Checking point 7, 3 (-1, 0) = L
+Checking point 7, 4 (-1, 1) = L
+Checking point 8, 4 (0, 1) = L
+Checking point 9, 4 (1, 1) = L
+Checking point 9, 3 (1, 0) = L
+Checking point 9, 2 (1, -1) = L
+Checking point 8, 2 (0, -1) = L
+Checking point 7, 2 (-1, -1) = L
+Point 8, 3 has seats taken in 0 directions
+POint 8, 4
+Checking point 7, 4 (-1, 0) = L
+Checking point 7, 5 (-1, 1) = L
+Checking point 8, 5 (0, 1) = L
+Checking point 9, 5 (1, 1) = L
+Checking point 9, 4 (1, 0) = L
+Checking point 9, 3 (1, -1) = L
+Checking point 8, 3 (0, -1) = L
+Checking point 7, 3 (-1, -1) = L
+Point 8, 4 has seats taken in 0 directions
+POint 8, 5
+Checking point 7, 5 (-1, 0) = L
+Checking point 7, 6 (-1, 1) = L
+Checking point 8, 6 (0, 1) = L
+Checking point 9, 6 (1, 1) = L
+Checking point 9, 5 (1, 0) = L
+Checking point 9, 4 (1, -1) = L
+Checking point 8, 4 (0, -1) = L
+Checking point 7, 4 (-1, -1) = L
+Point 8, 5 has seats taken in 0 directions
+POint 8, 6
+Checking point 7, 6 (-1, 0) = L
+Checking point 7, 7 (-1, 1) = L
+Checking point 8, 7 (0, 1) = L
+Checking point 9, 7 (1, 1) = .
+Checking point 9, 6 (1, 0) = L
+Checking point 9, 5 (1, -1) = L
+Checking point 8, 5 (0, -1) = L
+Checking point 7, 5 (-1, -1) = L
+Point 8, 6 has seats taken in 0 directions
+POint 8, 7
+Checking point 7, 7 (-1, 0) = L
+Checking point 7, 8 (-1, 1) = L
+Checking point 8, 8 (0, 1) = .
+Checking point 8, 9 (0, 1) = L
+Checking point 9, 8 (1, 1) = L
+Checking point 9, 7 (1, 0) = .
+Checking point 9, 6 (1, -1) = L
+Checking point 8, 6 (0, -1) = L
+Checking point 7, 6 (-1, -1) = L
+Point 8, 7 has seats taken in 0 directions
+POint 8, 8
+Checking point 7, 8 (-1, 0) = L
+Checking point 7, 9 (-1, 1) = L
+Checking point 8, 9 (0, 1) = L
+Checking point 9, 9 (1, 1) = L
+Checking point 9, 8 (1, 0) = L
+Checking point 9, 7 (1, -1) = .
+Checking point 8, 7 (0, -1) = L
+Checking point 7, 7 (-1, -1) = L
+Point 8, 8 has seats taken in 0 directions
+POint 8, 9
+Checking point 7, 9 (-1, 0) = L
+Checking point 9, 9 (1, 0) = L
+Checking point 9, 8 (1, -1) = L
+Checking point 8, 8 (0, -1) = .
+Checking point 8, 7 (0, -1) = L
+Checking point 7, 8 (-1, -1) = L
+Point 8, 9 has seats taken in 0 directions
+POint 9, 0
+Checking point 8, 0 (-1, 0) = L
+Checking point 8, 1 (-1, 1) = .
+Checking point 7, 2 (-1, 1) = L
+Checking point 9, 1 (0, 1) = .
+Checking point 9, 2 (0, 1) = L
+Point 9, 0 has seats taken in 0 directions
+POint 9, 1
+Checking point 8, 1 (-1, 0) = .
+Checking point 7, 1 (-1, 0) = L
+Checking point 8, 2 (-1, 1) = L
+Checking point 9, 2 (0, 1) = L
+Checking point 9, 0 (0, -1) = L
+Checking point 8, 0 (-1, -1) = L
+Point 9, 1 has seats taken in 0 directions
+POint 9, 2
+Checking point 8, 2 (-1, 0) = L
+Checking point 8, 3 (-1, 1) = L
+Checking point 9, 3 (0, 1) = L
+Checking point 9, 1 (0, -1) = .
+Checking point 9, 0 (0, -1) = L
+Checking point 8, 1 (-1, -1) = .
+Checking point 7, 0 (-1, -1) = L
+Point 9, 2 has seats taken in 0 directions
+POint 9, 3
+Checking point 8, 3 (-1, 0) = L
+Checking point 8, 4 (-1, 1) = L
+Checking point 9, 4 (0, 1) = L
+Checking point 9, 2 (0, -1) = L
+Checking point 8, 2 (-1, -1) = L
+Point 9, 3 has seats taken in 0 directions
+POint 9, 4
+Checking point 8, 4 (-1, 0) = L
+Checking point 8, 5 (-1, 1) = L
+Checking point 9, 5 (0, 1) = L
+Checking point 9, 3 (0, -1) = L
+Checking point 8, 3 (-1, -1) = L
+Point 9, 4 has seats taken in 0 directions
+POint 9, 5
+Checking point 8, 5 (-1, 0) = L
+Checking point 8, 6 (-1, 1) = L
+Checking point 9, 6 (0, 1) = L
+Checking point 9, 4 (0, -1) = L
+Checking point 8, 4 (-1, -1) = L
+Point 9, 5 has seats taken in 0 directions
+POint 9, 6
+Checking point 8, 6 (-1, 0) = L
+Checking point 8, 7 (-1, 1) = L
+Checking point 9, 7 (0, 1) = .
+Checking point 9, 8 (0, 1) = L
+Checking point 9, 5 (0, -1) = L
+Checking point 8, 5 (-1, -1) = L
+Point 9, 6 has seats taken in 0 directions
+POint 9, 7
+Checking point 8, 7 (-1, 0) = L
+Checking point 8, 8 (-1, 1) = .
+Checking point 7, 9 (-1, 1) = L
+Checking point 9, 8 (0, 1) = L
+Checking point 9, 6 (0, -1) = L
+Checking point 8, 6 (-1, -1) = L
+Point 9, 7 has seats taken in 0 directions
+POint 9, 8
+Checking point 8, 8 (-1, 0) = .
+Checking point 7, 8 (-1, 0) = L
+Checking point 8, 9 (-1, 1) = L
+Checking point 9, 9 (0, 1) = L
+Checking point 9, 7 (0, -1) = .
+Checking point 9, 6 (0, -1) = L
+Checking point 8, 7 (-1, -1) = L
+Point 9, 8 has seats taken in 0 directions
+POint 9, 9
+Checking point 8, 9 (-1, 0) = L
+Checking point 9, 8 (0, -1) = L
+Checking point 8, 8 (-1, -1) = .
+Checking point 7, 7 (-1, -1) = L
+Point 9, 9 has seats taken in 0 directions
+---------------
+['#', '.', '#', '#', '.', '#', '#', '.', '#', '#']
+['#', '#', '#', '#', '#', '#', '#', '.', '#', '#']
+['#', '.', '#', '.', '#', '.', '.', '#', '.', '.']
+['#', '#', '#', '#', '.', '#', '#', '.', '#', '#']
+['#', '.', '#', '#', '.', '#', '#', '.', '#', '#']
+['#', '.', '#', '#', '#', '#', '#', '.', '#', '#']
+['.', '.', '#', '.', '#', '.', '.', '.', '.', '.']
+['#', '#', '#', '#', '#', '#', '#', '#', '#', '#']
+['#', '.', '#', '#', '#', '#', '#', '#', '.', '#']
+['#', '.', '#', '#', '#', '#', '#', '.', '#', '#']
+POint 0, 0
+Checking point 0, 1 (0, 1) = .
+Checking point 0, 2 (0, 1) = #
+Checking point 1, 1 (1, 1) = #
+Checking point 1, 0 (1, 0) = #
+Point 0, 0 has seats taken in 3 directions
+POint 0, 1
+Checking point 0, 2 (0, 1) = #
+Checking point 1, 2 (1, 1) = #
+Checking point 1, 1 (1, 0) = #
+Checking point 1, 0 (1, -1) = #
+Checking point 0, 0 (0, -1) = #
+Point 0, 1 has seats taken in 5 directions
+POint 0, 2
+Checking point 0, 3 (0, 1) = #
+Checking point 1, 3 (1, 1) = #
+Checking point 1, 2 (1, 0) = #
+Checking point 1, 1 (1, -1) = #
+Checking point 0, 1 (0, -1) = .
+Checking point 0, 0 (0, -1) = #
+Point 0, 2 has seats taken in 5 directions
+POint 0, 3
+Checking point 0, 4 (0, 1) = .
+Checking point 0, 5 (0, 1) = #
+Checking point 1, 4 (1, 1) = #
+Checking point 1, 3 (1, 0) = #
+Checking point 1, 2 (1, -1) = #
+Checking point 0, 2 (0, -1) = #
+Point 0, 3 has seats taken in 5 directions
+POint 0, 4
+Checking point 0, 5 (0, 1) = #
+Checking point 1, 5 (1, 1) = #
+Checking point 1, 4 (1, 0) = #
+Checking point 1, 3 (1, -1) = #
+Checking point 0, 3 (0, -1) = #
+Point 0, 4 has seats taken in 5 directions
+POint 0, 5
+Checking point 0, 6 (0, 1) = #
+Checking point 1, 6 (1, 1) = #
+Checking point 1, 5 (1, 0) = #
+Checking point 1, 4 (1, -1) = #
+Checking point 0, 4 (0, -1) = .
+Checking point 0, 3 (0, -1) = #
+Point 0, 5 has seats taken in 5 directions
+POint 0, 6
+Checking point 0, 7 (0, 1) = .
+Checking point 0, 8 (0, 1) = #
+Checking point 1, 7 (1, 1) = .
+Checking point 2, 8 (1, 1) = .
+Checking point 3, 9 (1, 1) = #
+Checking point 1, 6 (1, 0) = #
+Checking point 1, 5 (1, -1) = #
+Checking point 0, 5 (0, -1) = #
+Point 0, 6 has seats taken in 5 directions
+POint 0, 7
+Checking point 0, 8 (0, 1) = #
+Checking point 1, 8 (1, 1) = #
+Checking point 1, 7 (1, 0) = .
+Checking point 2, 7 (1, 0) = #
+Checking point 1, 6 (1, -1) = #
+Checking point 0, 6 (0, -1) = #
+Point 0, 7 has seats taken in 5 directions
+POint 0, 8
+Checking point 0, 9 (0, 1) = #
+Checking point 1, 9 (1, 1) = #
+Checking point 1, 8 (1, 0) = #
+Checking point 1, 7 (1, -1) = .
+Checking point 2, 6 (1, -1) = .
+Checking point 3, 5 (1, -1) = #
+Checking point 0, 7 (0, -1) = .
+Checking point 0, 6 (0, -1) = #
+Point 0, 8 has seats taken in 5 directions
+POint 0, 9
+Checking point 1, 9 (1, 0) = #
+Checking point 1, 8 (1, -1) = #
+Checking point 0, 8 (0, -1) = #
+Point 0, 9 has seats taken in 3 directions
+POint 1, 0
+Checking point 0, 0 (-1, 0) = #
+Checking point 0, 1 (-1, 1) = .
+Checking point 1, 1 (0, 1) = #
+Checking point 2, 1 (1, 1) = .
+Checking point 3, 2 (1, 1) = #
+Checking point 2, 0 (1, 0) = #
+Point 1, 0 has seats taken in 4 directions
+POint 1, 1
+Checking point 0, 1 (-1, 0) = .
+Checking point 0, 2 (-1, 1) = #
+Checking point 1, 2 (0, 1) = #
+Checking point 2, 2 (1, 1) = #
+Checking point 2, 1 (1, 0) = .
+Checking point 3, 1 (1, 0) = #
+Checking point 2, 0 (1, -1) = #
+Checking point 1, 0 (0, -1) = #
+Checking point 0, 0 (-1, -1) = #
+Point 1, 1 has seats taken in 7 directions
+POint 1, 2
+Checking point 0, 2 (-1, 0) = #
+Checking point 0, 3 (-1, 1) = #
+Checking point 1, 3 (0, 1) = #
+Checking point 2, 3 (1, 1) = .
+Checking point 3, 4 (1, 1) = .
+Checking point 4, 5 (1, 1) = #
+Checking point 2, 2 (1, 0) = #
+Checking point 2, 1 (1, -1) = .
+Checking point 3, 0 (1, -1) = #
+Checking point 1, 1 (0, -1) = #
+Checking point 0, 1 (-1, -1) = .
+Point 1, 2 has seats taken in 7 directions
+POint 1, 3
+Checking point 0, 3 (-1, 0) = #
+Checking point 0, 4 (-1, 1) = .
+Checking point 1, 4 (0, 1) = #
+Checking point 2, 4 (1, 1) = #
+Checking point 2, 3 (1, 0) = .
+Checking point 3, 3 (1, 0) = #
+Checking point 2, 2 (1, -1) = #
+Checking point 1, 2 (0, -1) = #
+Checking point 0, 2 (-1, -1) = #
+Point 1, 3 has seats taken in 7 directions
+POint 1, 4
+Checking point 0, 4 (-1, 0) = .
+Checking point 0, 5 (-1, 1) = #
+Checking point 1, 5 (0, 1) = #
+Checking point 2, 5 (1, 1) = .
+Checking point 3, 6 (1, 1) = #
+Checking point 2, 4 (1, 0) = #
+Checking point 2, 3 (1, -1) = .
+Checking point 3, 2 (1, -1) = #
+Checking point 1, 3 (0, -1) = #
+Checking point 0, 3 (-1, -1) = #
+Point 1, 4 has seats taken in 7 directions
+POint 1, 5
+Checking point 0, 5 (-1, 0) = #
+Checking point 0, 6 (-1, 1) = #
+Checking point 1, 6 (0, 1) = #
+Checking point 2, 6 (1, 1) = .
+Checking point 3, 7 (1, 1) = .
+Checking point 4, 8 (1, 1) = #
+Checking point 2, 5 (1, 0) = .
+Checking point 3, 5 (1, 0) = #
+Checking point 2, 4 (1, -1) = #
+Checking point 1, 4 (0, -1) = #
+Checking point 0, 4 (-1, -1) = .
+Point 1, 5 has seats taken in 7 directions
+POint 1, 6
+Checking point 0, 6 (-1, 0) = #
+Checking point 0, 7 (-1, 1) = .
+Checking point 1, 7 (0, 1) = .
+Checking point 1, 8 (0, 1) = #
+Checking point 2, 7 (1, 1) = #
+Checking point 2, 6 (1, 0) = .
+Checking point 3, 6 (1, 0) = #
+Checking point 2, 5 (1, -1) = .
+Checking point 3, 4 (1, -1) = .
+Checking point 4, 3 (1, -1) = #
+Checking point 1, 5 (0, -1) = #
+Checking point 0, 5 (-1, -1) = #
+Point 1, 6 has seats taken in 7 directions
+POint 1, 7
+Checking point 0, 7 (-1, 0) = .
+Checking point 0, 8 (-1, 1) = #
+Checking point 1, 8 (0, 1) = #
+Checking point 2, 8 (1, 1) = .
+Checking point 3, 9 (1, 1) = #
+Checking point 2, 7 (1, 0) = #
+Checking point 2, 6 (1, -1) = .
+Checking point 3, 5 (1, -1) = #
+Checking point 1, 6 (0, -1) = #
+Checking point 0, 6 (-1, -1) = #
+Point 1, 7 has seats taken in 7 directions
+POint 1, 8
+Checking point 0, 8 (-1, 0) = #
+Checking point 0, 9 (-1, 1) = #
+Checking point 1, 9 (0, 1) = #
+Checking point 2, 9 (1, 1) = .
+Checking point 2, 8 (1, 0) = .
+Checking point 3, 8 (1, 0) = #
+Checking point 2, 7 (1, -1) = #
+Checking point 1, 7 (0, -1) = .
+Checking point 1, 6 (0, -1) = #
+Checking point 0, 7 (-1, -1) = .
+Point 1, 8 has seats taken in 6 directions
+POint 1, 9
+Checking point 0, 9 (-1, 0) = #
+Checking point 2, 9 (1, 0) = .
+Checking point 3, 9 (1, 0) = #
+Checking point 2, 8 (1, -1) = .
+Checking point 3, 7 (1, -1) = .
+Checking point 4, 6 (1, -1) = #
+Checking point 1, 8 (0, -1) = #
+Checking point 0, 8 (-1, -1) = #
+Point 1, 9 has seats taken in 5 directions
+POint 2, 0
+Checking point 1, 0 (-1, 0) = #
+Checking point 1, 1 (-1, 1) = #
+Checking point 2, 1 (0, 1) = .
+Checking point 2, 2 (0, 1) = #
+Checking point 3, 1 (1, 1) = #
+Checking point 3, 0 (1, 0) = #
+Point 2, 0 has seats taken in 5 directions
+POint 2, 1
+Checking point 1, 1 (-1, 0) = #
+Checking point 1, 2 (-1, 1) = #
+Checking point 2, 2 (0, 1) = #
+Checking point 3, 2 (1, 1) = #
+Checking point 3, 1 (1, 0) = #
+Checking point 3, 0 (1, -1) = #
+Checking point 2, 0 (0, -1) = #
+Checking point 1, 0 (-1, -1) = #
+Point 2, 1 has seats taken in 8 directions
+POint 2, 2
+Checking point 1, 2 (-1, 0) = #
+Checking point 1, 3 (-1, 1) = #
+Checking point 2, 3 (0, 1) = .
+Checking point 2, 4 (0, 1) = #
+Checking point 3, 3 (1, 1) = #
+Checking point 3, 2 (1, 0) = #
+Checking point 3, 1 (1, -1) = #
+Checking point 2, 1 (0, -1) = .
+Checking point 2, 0 (0, -1) = #
+Checking point 1, 1 (-1, -1) = #
+Point 2, 2 has seats taken in 8 directions
+POint 2, 3
+Checking point 1, 3 (-1, 0) = #
+Checking point 1, 4 (-1, 1) = #
+Checking point 2, 4 (0, 1) = #
+Checking point 3, 4 (1, 1) = .
+Checking point 4, 5 (1, 1) = #
+Checking point 3, 3 (1, 0) = #
+Checking point 3, 2 (1, -1) = #
+Checking point 2, 2 (0, -1) = #
+Checking point 1, 2 (-1, -1) = #
+Point 2, 3 has seats taken in 8 directions
+POint 2, 4
+Checking point 1, 4 (-1, 0) = #
+Checking point 1, 5 (-1, 1) = #
+Checking point 2, 5 (0, 1) = .
+Checking point 2, 6 (0, 1) = .
+Checking point 2, 7 (0, 1) = #
+Checking point 3, 5 (1, 1) = #
+Checking point 3, 4 (1, 0) = .
+Checking point 4, 4 (1, 0) = .
+Checking point 5, 4 (1, 0) = #
+Checking point 3, 3 (1, -1) = #
+Checking point 2, 3 (0, -1) = .
+Checking point 2, 2 (0, -1) = #
+Checking point 1, 3 (-1, -1) = #
+Point 2, 4 has seats taken in 8 directions
+POint 2, 5
+Checking point 1, 5 (-1, 0) = #
+Checking point 1, 6 (-1, 1) = #
+Checking point 2, 6 (0, 1) = .
+Checking point 2, 7 (0, 1) = #
+Checking point 3, 6 (1, 1) = #
+Checking point 3, 5 (1, 0) = #
+Checking point 3, 4 (1, -1) = .
+Checking point 4, 3 (1, -1) = #
+Checking point 2, 4 (0, -1) = #
+Checking point 1, 4 (-1, -1) = #
+Point 2, 5 has seats taken in 8 directions
+POint 2, 6
+Checking point 1, 6 (-1, 0) = #
+Checking point 1, 7 (-1, 1) = .
+Checking point 0, 8 (-1, 1) = #
+Checking point 2, 7 (0, 1) = #
+Checking point 3, 7 (1, 1) = .
+Checking point 4, 8 (1, 1) = #
+Checking point 3, 6 (1, 0) = #
+Checking point 3, 5 (1, -1) = #
+Checking point 2, 5 (0, -1) = .
+Checking point 2, 4 (0, -1) = #
+Checking point 1, 5 (-1, -1) = #
+Point 2, 6 has seats taken in 8 directions
+POint 2, 7
+Checking point 1, 7 (-1, 0) = .
+Checking point 0, 7 (-1, 0) = .
+Checking point 1, 8 (-1, 1) = #
+Checking point 2, 8 (0, 1) = .
+Checking point 2, 9 (0, 1) = .
+Checking point 3, 8 (1, 1) = #
+Checking point 3, 7 (1, 0) = .
+Checking point 4, 7 (1, 0) = .
+Checking point 5, 7 (1, 0) = .
+Checking point 6, 7 (1, 0) = .
+Checking point 7, 7 (1, 0) = #
+Checking point 3, 6 (1, -1) = #
+Checking point 2, 6 (0, -1) = .
+Checking point 2, 5 (0, -1) = .
+Checking point 2, 4 (0, -1) = #
+Checking point 1, 6 (-1, -1) = #
+Point 2, 7 has seats taken in 6 directions
+POint 2, 8
+Checking point 1, 8 (-1, 0) = #
+Checking point 1, 9 (-1, 1) = #
+Checking point 2, 9 (0, 1) = .
+Checking point 3, 9 (1, 1) = #
+Checking point 3, 8 (1, 0) = #
+Checking point 3, 7 (1, -1) = .
+Checking point 4, 6 (1, -1) = #
+Checking point 2, 7 (0, -1) = #
+Checking point 1, 7 (-1, -1) = .
+Checking point 0, 6 (-1, -1) = #
+Point 2, 8 has seats taken in 7 directions
+POint 2, 9
+Checking point 1, 9 (-1, 0) = #
+Checking point 3, 9 (1, 0) = #
+Checking point 3, 8 (1, -1) = #
+Checking point 2, 8 (0, -1) = .
+Checking point 2, 7 (0, -1) = #
+Checking point 1, 8 (-1, -1) = #
+Point 2, 9 has seats taken in 5 directions
+POint 3, 0
+Checking point 2, 0 (-1, 0) = #
+Checking point 2, 1 (-1, 1) = .
+Checking point 1, 2 (-1, 1) = #
+Checking point 3, 1 (0, 1) = #
+Checking point 4, 1 (1, 1) = .
+Checking point 5, 2 (1, 1) = #
+Checking point 4, 0 (1, 0) = #
+Point 3, 0 has seats taken in 5 directions
+POint 3, 1
+Checking point 2, 1 (-1, 0) = .
+Checking point 1, 1 (-1, 0) = #
+Checking point 2, 2 (-1, 1) = #
+Checking point 3, 2 (0, 1) = #
+Checking point 4, 2 (1, 1) = #
+Checking point 4, 1 (1, 0) = .
+Checking point 5, 1 (1, 0) = .
+Checking point 6, 1 (1, 0) = .
+Checking point 7, 1 (1, 0) = #
+Checking point 4, 0 (1, -1) = #
+Checking point 3, 0 (0, -1) = #
+Checking point 2, 0 (-1, -1) = #
+Point 3, 1 has seats taken in 8 directions
+POint 3, 2
+Checking point 2, 2 (-1, 0) = #
+Checking point 2, 3 (-1, 1) = .
+Checking point 1, 4 (-1, 1) = #
+Checking point 3, 3 (0, 1) = #
+Checking point 4, 3 (1, 1) = #
+Checking point 4, 2 (1, 0) = #
+Checking point 4, 1 (1, -1) = .
+Checking point 5, 0 (1, -1) = #
+Checking point 3, 1 (0, -1) = #
+Checking point 2, 1 (-1, -1) = .
+Checking point 1, 0 (-1, -1) = #
+Point 3, 2 has seats taken in 8 directions
+POint 3, 3
+Checking point 2, 3 (-1, 0) = .
+Checking point 1, 3 (-1, 0) = #
+Checking point 2, 4 (-1, 1) = #
+Checking point 3, 4 (0, 1) = .
+Checking point 3, 5 (0, 1) = #
+Checking point 4, 4 (1, 1) = .
+Checking point 5, 5 (1, 1) = #
+Checking point 4, 3 (1, 0) = #
+Checking point 4, 2 (1, -1) = #
+Checking point 3, 2 (0, -1) = #
+Checking point 2, 2 (-1, -1) = #
+Point 3, 3 has seats taken in 8 directions
+POint 3, 4
+Checking point 2, 4 (-1, 0) = #
+Checking point 2, 5 (-1, 1) = .
+Checking point 1, 6 (-1, 1) = #
+Checking point 3, 5 (0, 1) = #
+Checking point 4, 5 (1, 1) = #
+Checking point 4, 4 (1, 0) = .
+Checking point 5, 4 (1, 0) = #
+Checking point 4, 3 (1, -1) = #
+Checking point 3, 3 (0, -1) = #
+Checking point 2, 3 (-1, -1) = .
+Checking point 1, 2 (-1, -1) = #
+Point 3, 4 has seats taken in 8 directions
+POint 3, 5
+Checking point 2, 5 (-1, 0) = .
+Checking point 1, 5 (-1, 0) = #
+Checking point 2, 6 (-1, 1) = .
+Checking point 1, 7 (-1, 1) = .
+Checking point 0, 8 (-1, 1) = #
+Checking point 3, 6 (0, 1) = #
+Checking point 4, 6 (1, 1) = #
+Checking point 4, 5 (1, 0) = #
+Checking point 4, 4 (1, -1) = .
+Checking point 5, 3 (1, -1) = #
+Checking point 3, 4 (0, -1) = .
+Checking point 3, 3 (0, -1) = #
+Checking point 2, 4 (-1, -1) = #
+Point 3, 5 has seats taken in 8 directions
+POint 3, 6
+Checking point 2, 6 (-1, 0) = .
+Checking point 1, 6 (-1, 0) = #
+Checking point 2, 7 (-1, 1) = #
+Checking point 3, 7 (0, 1) = .
+Checking point 3, 8 (0, 1) = #
+Checking point 4, 7 (1, 1) = .
+Checking point 5, 8 (1, 1) = #
+Checking point 4, 6 (1, 0) = #
+Checking point 4, 5 (1, -1) = #
+Checking point 3, 5 (0, -1) = #
+Checking point 2, 5 (-1, -1) = .
+Checking point 1, 4 (-1, -1) = #
+Point 3, 6 has seats taken in 8 directions
+POint 3, 7
+Checking point 2, 7 (-1, 0) = #
+Checking point 2, 8 (-1, 1) = .
+Checking point 1, 9 (-1, 1) = #
+Checking point 3, 8 (0, 1) = #
+Checking point 4, 8 (1, 1) = #
+Checking point 4, 7 (1, 0) = .
+Checking point 5, 7 (1, 0) = .
+Checking point 6, 7 (1, 0) = .
+Checking point 7, 7 (1, 0) = #
+Checking point 4, 6 (1, -1) = #
+Checking point 3, 6 (0, -1) = #
+Checking point 2, 6 (-1, -1) = .
+Checking point 1, 5 (-1, -1) = #
+Point 3, 7 has seats taken in 8 directions
+POint 3, 8
+Checking point 2, 8 (-1, 0) = .
+Checking point 1, 8 (-1, 0) = #
+Checking point 2, 9 (-1, 1) = .
+Checking point 3, 9 (0, 1) = #
+Checking point 4, 9 (1, 1) = #
+Checking point 4, 8 (1, 0) = #
+Checking point 4, 7 (1, -1) = .
+Checking point 5, 6 (1, -1) = #
+Checking point 3, 7 (0, -1) = .
+Checking point 3, 6 (0, -1) = #
+Checking point 2, 7 (-1, -1) = #
+Point 3, 8 has seats taken in 7 directions
+POint 3, 9
+Checking point 2, 9 (-1, 0) = .
+Checking point 1, 9 (-1, 0) = #
+Checking point 4, 9 (1, 0) = #
+Checking point 4, 8 (1, -1) = #
+Checking point 3, 8 (0, -1) = #
+Checking point 2, 8 (-1, -1) = .
+Checking point 1, 7 (-1, -1) = .
+Checking point 0, 6 (-1, -1) = #
+Point 3, 9 has seats taken in 5 directions
+POint 4, 0
+Checking point 3, 0 (-1, 0) = #
+Checking point 3, 1 (-1, 1) = #
+Checking point 4, 1 (0, 1) = .
+Checking point 4, 2 (0, 1) = #
+Checking point 5, 1 (1, 1) = .
+Checking point 6, 2 (1, 1) = #
+Checking point 5, 0 (1, 0) = #
+Point 4, 0 has seats taken in 5 directions
+POint 4, 1
+Checking point 3, 1 (-1, 0) = #
+Checking point 3, 2 (-1, 1) = #
+Checking point 4, 2 (0, 1) = #
+Checking point 5, 2 (1, 1) = #
+Checking point 5, 1 (1, 0) = .
+Checking point 6, 1 (1, 0) = .
+Checking point 7, 1 (1, 0) = #
+Checking point 5, 0 (1, -1) = #
+Checking point 4, 0 (0, -1) = #
+Checking point 3, 0 (-1, -1) = #
+Point 4, 1 has seats taken in 8 directions
+POint 4, 2
+Checking point 3, 2 (-1, 0) = #
+Checking point 3, 3 (-1, 1) = #
+Checking point 4, 3 (0, 1) = #
+Checking point 5, 3 (1, 1) = #
+Checking point 5, 2 (1, 0) = #
+Checking point 5, 1 (1, -1) = .
+Checking point 6, 0 (1, -1) = .
+Checking point 4, 1 (0, -1) = .
+Checking point 4, 0 (0, -1) = #
+Checking point 3, 1 (-1, -1) = #
+Point 4, 2 has seats taken in 7 directions
+POint 4, 3
+Checking point 3, 3 (-1, 0) = #
+Checking point 3, 4 (-1, 1) = .
+Checking point 2, 5 (-1, 1) = .
+Checking point 1, 6 (-1, 1) = #
+Checking point 4, 4 (0, 1) = .
+Checking point 4, 5 (0, 1) = #
+Checking point 5, 4 (1, 1) = #
+Checking point 5, 3 (1, 0) = #
+Checking point 5, 2 (1, -1) = #
+Checking point 4, 2 (0, -1) = #
+Checking point 3, 2 (-1, -1) = #
+Point 4, 3 has seats taken in 8 directions
+POint 4, 4
+Checking point 3, 4 (-1, 0) = .
+Checking point 2, 4 (-1, 0) = #
+Checking point 3, 5 (-1, 1) = #
+Checking point 4, 5 (0, 1) = #
+Checking point 5, 5 (1, 1) = #
+Checking point 5, 4 (1, 0) = #
+Checking point 5, 3 (1, -1) = #
+Checking point 4, 3 (0, -1) = #
+Checking point 3, 3 (-1, -1) = #
+Point 4, 4 has seats taken in 8 directions
+POint 4, 5
+Checking point 3, 5 (-1, 0) = #
+Checking point 3, 6 (-1, 1) = #
+Checking point 4, 6 (0, 1) = #
+Checking point 5, 6 (1, 1) = #
+Checking point 5, 5 (1, 0) = #
+Checking point 5, 4 (1, -1) = #
+Checking point 4, 4 (0, -1) = .
+Checking point 4, 3 (0, -1) = #
+Checking point 3, 4 (-1, -1) = .
+Checking point 2, 3 (-1, -1) = .
+Checking point 1, 2 (-1, -1) = #
+Point 4, 5 has seats taken in 8 directions
+POint 4, 6
+Checking point 3, 6 (-1, 0) = #
+Checking point 3, 7 (-1, 1) = .
+Checking point 2, 8 (-1, 1) = .
+Checking point 1, 9 (-1, 1) = #
+Checking point 4, 7 (0, 1) = .
+Checking point 4, 8 (0, 1) = #
+Checking point 5, 7 (1, 1) = .
+Checking point 6, 8 (1, 1) = .
+Checking point 7, 9 (1, 1) = #
+Checking point 5, 6 (1, 0) = #
+Checking point 5, 5 (1, -1) = #
+Checking point 4, 5 (0, -1) = #
+Checking point 3, 5 (-1, -1) = #
+Point 4, 6 has seats taken in 8 directions
+POint 4, 7
+Checking point 3, 7 (-1, 0) = .
+Checking point 2, 7 (-1, 0) = #
+Checking point 3, 8 (-1, 1) = #
+Checking point 4, 8 (0, 1) = #
+Checking point 5, 8 (1, 1) = #
+Checking point 5, 7 (1, 0) = .
+Checking point 6, 7 (1, 0) = .
+Checking point 7, 7 (1, 0) = #
+Checking point 5, 6 (1, -1) = #
+Checking point 4, 6 (0, -1) = #
+Checking point 3, 6 (-1, -1) = #
+Point 4, 7 has seats taken in 8 directions
+POint 4, 8
+Checking point 3, 8 (-1, 0) = #
+Checking point 3, 9 (-1, 1) = #
+Checking point 4, 9 (0, 1) = #
+Checking point 5, 9 (1, 1) = #
+Checking point 5, 8 (1, 0) = #
+Checking point 5, 7 (1, -1) = .
+Checking point 6, 6 (1, -1) = .
+Checking point 7, 5 (1, -1) = #
+Checking point 4, 7 (0, -1) = .
+Checking point 4, 6 (0, -1) = #
+Checking point 3, 7 (-1, -1) = .
+Checking point 2, 6 (-1, -1) = .
+Checking point 1, 5 (-1, -1) = #
+Point 4, 8 has seats taken in 8 directions
+POint 4, 9
+Checking point 3, 9 (-1, 0) = #
+Checking point 5, 9 (1, 0) = #
+Checking point 5, 8 (1, -1) = #
+Checking point 4, 8 (0, -1) = #
+Checking point 3, 8 (-1, -1) = #
+Point 4, 9 has seats taken in 5 directions
+POint 5, 0
+Checking point 4, 0 (-1, 0) = #
+Checking point 4, 1 (-1, 1) = .
+Checking point 3, 2 (-1, 1) = #
+Checking point 5, 1 (0, 1) = .
+Checking point 5, 2 (0, 1) = #
+Checking point 6, 1 (1, 1) = .
+Checking point 7, 2 (1, 1) = #
+Checking point 6, 0 (1, 0) = .
+Checking point 7, 0 (1, 0) = #
+Point 5, 0 has seats taken in 5 directions
+POint 5, 1
+Checking point 4, 1 (-1, 0) = .
+Checking point 3, 1 (-1, 0) = #
+Checking point 4, 2 (-1, 1) = #
+Checking point 5, 2 (0, 1) = #
+Checking point 6, 2 (1, 1) = #
+Checking point 6, 1 (1, 0) = .
+Checking point 7, 1 (1, 0) = #
+Checking point 6, 0 (1, -1) = .
+Checking point 5, 0 (0, -1) = #
+Checking point 4, 0 (-1, -1) = #
+Point 5, 1 has seats taken in 7 directions
+POint 5, 2
+Checking point 4, 2 (-1, 0) = #
+Checking point 4, 3 (-1, 1) = #
+Checking point 5, 3 (0, 1) = #
+Checking point 6, 3 (1, 1) = .
+Checking point 7, 4 (1, 1) = #
+Checking point 6, 2 (1, 0) = #
+Checking point 6, 1 (1, -1) = .
+Checking point 7, 0 (1, -1) = #
+Checking point 5, 1 (0, -1) = .
+Checking point 5, 0 (0, -1) = #
+Checking point 4, 1 (-1, -1) = .
+Checking point 3, 0 (-1, -1) = #
+Point 5, 2 has seats taken in 8 directions
+POint 5, 3
+Checking point 4, 3 (-1, 0) = #
+Checking point 4, 4 (-1, 1) = .
+Checking point 3, 5 (-1, 1) = #
+Checking point 5, 4 (0, 1) = #
+Checking point 6, 4 (1, 1) = #
+Checking point 6, 3 (1, 0) = .
+Checking point 7, 3 (1, 0) = #
+Checking point 6, 2 (1, -1) = #
+Checking point 5, 2 (0, -1) = #
+Checking point 4, 2 (-1, -1) = #
+Point 5, 3 has seats taken in 8 directions
+POint 5, 4
+Checking point 4, 4 (-1, 0) = .
+Checking point 3, 4 (-1, 0) = .
+Checking point 2, 4 (-1, 0) = #
+Checking point 4, 5 (-1, 1) = #
+Checking point 5, 5 (0, 1) = #
+Checking point 6, 5 (1, 1) = .
+Checking point 7, 6 (1, 1) = #
+Checking point 6, 4 (1, 0) = #
+Checking point 6, 3 (1, -1) = .
+Checking point 7, 2 (1, -1) = #
+Checking point 5, 3 (0, -1) = #
+Checking point 4, 3 (-1, -1) = #
+Point 5, 4 has seats taken in 8 directions
+POint 5, 5
+Checking point 4, 5 (-1, 0) = #
+Checking point 4, 6 (-1, 1) = #
+Checking point 5, 6 (0, 1) = #
+Checking point 6, 6 (1, 1) = .
+Checking point 7, 7 (1, 1) = #
+Checking point 6, 5 (1, 0) = .
+Checking point 7, 5 (1, 0) = #
+Checking point 6, 4 (1, -1) = #
+Checking point 5, 4 (0, -1) = #
+Checking point 4, 4 (-1, -1) = .
+Checking point 3, 3 (-1, -1) = #
+Point 5, 5 has seats taken in 8 directions
+POint 5, 6
+Checking point 4, 6 (-1, 0) = #
+Checking point 4, 7 (-1, 1) = .
+Checking point 3, 8 (-1, 1) = #
+Checking point 5, 7 (0, 1) = .
+Checking point 5, 8 (0, 1) = #
+Checking point 6, 7 (1, 1) = .
+Checking point 7, 8 (1, 1) = #
+Checking point 6, 6 (1, 0) = .
+Checking point 7, 6 (1, 0) = #
+Checking point 6, 5 (1, -1) = .
+Checking point 7, 4 (1, -1) = #
+Checking point 5, 5 (0, -1) = #
+Checking point 4, 5 (-1, -1) = #
+Point 5, 6 has seats taken in 8 directions
+POint 5, 7
+Checking point 4, 7 (-1, 0) = .
+Checking point 3, 7 (-1, 0) = .
+Checking point 2, 7 (-1, 0) = #
+Checking point 4, 8 (-1, 1) = #
+Checking point 5, 8 (0, 1) = #
+Checking point 6, 8 (1, 1) = .
+Checking point 7, 9 (1, 1) = #
+Checking point 6, 7 (1, 0) = .
+Checking point 7, 7 (1, 0) = #
+Checking point 6, 6 (1, -1) = .
+Checking point 7, 5 (1, -1) = #
+Checking point 5, 6 (0, -1) = #
+Checking point 4, 6 (-1, -1) = #
+Point 5, 7 has seats taken in 8 directions
+POint 5, 8
+Checking point 4, 8 (-1, 0) = #
+Checking point 4, 9 (-1, 1) = #
+Checking point 5, 9 (0, 1) = #
+Checking point 6, 9 (1, 1) = .
+Checking point 6, 8 (1, 0) = .
+Checking point 7, 8 (1, 0) = #
+Checking point 6, 7 (1, -1) = .
+Checking point 7, 6 (1, -1) = #
+Checking point 5, 7 (0, -1) = .
+Checking point 5, 6 (0, -1) = #
+Checking point 4, 7 (-1, -1) = .
+Checking point 3, 6 (-1, -1) = #
+Point 5, 8 has seats taken in 7 directions
+POint 5, 9
+Checking point 4, 9 (-1, 0) = #
+Checking point 6, 9 (1, 0) = .
+Checking point 7, 9 (1, 0) = #
+Checking point 6, 8 (1, -1) = .
+Checking point 7, 7 (1, -1) = #
+Checking point 5, 8 (0, -1) = #
+Checking point 4, 8 (-1, -1) = #
+Point 5, 9 has seats taken in 5 directions
+POint 6, 0
+Checking point 5, 0 (-1, 0) = #
+Checking point 5, 1 (-1, 1) = .
+Checking point 4, 2 (-1, 1) = #
+Checking point 6, 1 (0, 1) = .
+Checking point 6, 2 (0, 1) = #
+Checking point 7, 1 (1, 1) = #
+Checking point 7, 0 (1, 0) = #
+Point 6, 0 has seats taken in 5 directions
+POint 6, 1
+Checking point 5, 1 (-1, 0) = .
+Checking point 4, 1 (-1, 0) = .
+Checking point 3, 1 (-1, 0) = #
+Checking point 5, 2 (-1, 1) = #
+Checking point 6, 2 (0, 1) = #
+Checking point 7, 2 (1, 1) = #
+Checking point 7, 1 (1, 0) = #
+Checking point 7, 0 (1, -1) = #
+Checking point 6, 0 (0, -1) = .
+Checking point 5, 0 (-1, -1) = #
+Point 6, 1 has seats taken in 7 directions
+POint 6, 2
+Checking point 5, 2 (-1, 0) = #
+Checking point 5, 3 (-1, 1) = #
+Checking point 6, 3 (0, 1) = .
+Checking point 6, 4 (0, 1) = #
+Checking point 7, 3 (1, 1) = #
+Checking point 7, 2 (1, 0) = #
+Checking point 7, 1 (1, -1) = #
+Checking point 6, 1 (0, -1) = .
+Checking point 6, 0 (0, -1) = .
+Checking point 5, 1 (-1, -1) = .
+Checking point 4, 0 (-1, -1) = #
+Point 6, 2 has seats taken in 7 directions
+POint 6, 3
+Checking point 5, 3 (-1, 0) = #
+Checking point 5, 4 (-1, 1) = #
+Checking point 6, 4 (0, 1) = #
+Checking point 7, 4 (1, 1) = #
+Checking point 7, 3 (1, 0) = #
+Checking point 7, 2 (1, -1) = #
+Checking point 6, 2 (0, -1) = #
+Checking point 5, 2 (-1, -1) = #
+Point 6, 3 has seats taken in 8 directions
+POint 6, 4
+Checking point 5, 4 (-1, 0) = #
+Checking point 5, 5 (-1, 1) = #
+Checking point 6, 5 (0, 1) = .
+Checking point 6, 6 (0, 1) = .
+Checking point 6, 7 (0, 1) = .
+Checking point 6, 8 (0, 1) = .
+Checking point 6, 9 (0, 1) = .
+Checking point 7, 5 (1, 1) = #
+Checking point 7, 4 (1, 0) = #
+Checking point 7, 3 (1, -1) = #
+Checking point 6, 3 (0, -1) = .
+Checking point 6, 2 (0, -1) = #
+Checking point 5, 3 (-1, -1) = #
+Point 6, 4 has seats taken in 7 directions
+POint 6, 5
+Checking point 5, 5 (-1, 0) = #
+Checking point 5, 6 (-1, 1) = #
+Checking point 6, 6 (0, 1) = .
+Checking point 6, 7 (0, 1) = .
+Checking point 6, 8 (0, 1) = .
+Checking point 6, 9 (0, 1) = .
+Checking point 7, 6 (1, 1) = #
+Checking point 7, 5 (1, 0) = #
+Checking point 7, 4 (1, -1) = #
+Checking point 6, 4 (0, -1) = #
+Checking point 5, 4 (-1, -1) = #
+Point 6, 5 has seats taken in 7 directions
+POint 6, 6
+Checking point 5, 6 (-1, 0) = #
+Checking point 5, 7 (-1, 1) = .
+Checking point 4, 8 (-1, 1) = #
+Checking point 6, 7 (0, 1) = .
+Checking point 6, 8 (0, 1) = .
+Checking point 6, 9 (0, 1) = .
+Checking point 7, 7 (1, 1) = #
+Checking point 7, 6 (1, 0) = #
+Checking point 7, 5 (1, -1) = #
+Checking point 6, 5 (0, -1) = .
+Checking point 6, 4 (0, -1) = #
+Checking point 5, 5 (-1, -1) = #
+Point 6, 6 has seats taken in 7 directions
+POint 6, 7
+Checking point 5, 7 (-1, 0) = .
+Checking point 4, 7 (-1, 0) = .
+Checking point 3, 7 (-1, 0) = .
+Checking point 2, 7 (-1, 0) = #
+Checking point 5, 8 (-1, 1) = #
+Checking point 6, 8 (0, 1) = .
+Checking point 6, 9 (0, 1) = .
+Checking point 7, 8 (1, 1) = #
+Checking point 7, 7 (1, 0) = #
+Checking point 7, 6 (1, -1) = #
+Checking point 6, 6 (0, -1) = .
+Checking point 6, 5 (0, -1) = .
+Checking point 6, 4 (0, -1) = #
+Checking point 5, 6 (-1, -1) = #
+Point 6, 7 has seats taken in 7 directions
+POint 6, 8
+Checking point 5, 8 (-1, 0) = #
+Checking point 5, 9 (-1, 1) = #
+Checking point 6, 9 (0, 1) = .
+Checking point 7, 9 (1, 1) = #
+Checking point 7, 8 (1, 0) = #
+Checking point 7, 7 (1, -1) = #
+Checking point 6, 7 (0, -1) = .
+Checking point 6, 6 (0, -1) = .
+Checking point 6, 5 (0, -1) = .
+Checking point 6, 4 (0, -1) = #
+Checking point 5, 7 (-1, -1) = .
+Checking point 4, 6 (-1, -1) = #
+Point 6, 8 has seats taken in 7 directions
+POint 6, 9
+Checking point 5, 9 (-1, 0) = #
+Checking point 7, 9 (1, 0) = #
+Checking point 7, 8 (1, -1) = #
+Checking point 6, 8 (0, -1) = .
+Checking point 6, 7 (0, -1) = .
+Checking point 6, 6 (0, -1) = .
+Checking point 6, 5 (0, -1) = .
+Checking point 6, 4 (0, -1) = #
+Checking point 5, 8 (-1, -1) = #
+Point 6, 9 has seats taken in 5 directions
+POint 7, 0
+Checking point 6, 0 (-1, 0) = .
+Checking point 5, 0 (-1, 0) = #
+Checking point 6, 1 (-1, 1) = .
+Checking point 5, 2 (-1, 1) = #
+Checking point 7, 1 (0, 1) = #
+Checking point 8, 1 (1, 1) = .
+Checking point 9, 2 (1, 1) = #
+Checking point 8, 0 (1, 0) = #
+Point 7, 0 has seats taken in 5 directions
+POint 7, 1
+Checking point 6, 1 (-1, 0) = .
+Checking point 5, 1 (-1, 0) = .
+Checking point 4, 1 (-1, 0) = .
+Checking point 3, 1 (-1, 0) = #
+Checking point 6, 2 (-1, 1) = #
+Checking point 7, 2 (0, 1) = #
+Checking point 8, 2 (1, 1) = #
+Checking point 8, 1 (1, 0) = .
+Checking point 9, 1 (1, 0) = .
+Checking point 8, 0 (1, -1) = #
+Checking point 7, 0 (0, -1) = #
+Checking point 6, 0 (-1, -1) = .
+Point 7, 1 has seats taken in 6 directions
+POint 7, 2
+Checking point 6, 2 (-1, 0) = #
+Checking point 6, 3 (-1, 1) = .
+Checking point 5, 4 (-1, 1) = #
+Checking point 7, 3 (0, 1) = #
+Checking point 8, 3 (1, 1) = #
+Checking point 8, 2 (1, 0) = #
+Checking point 8, 1 (1, -1) = .
+Checking point 9, 0 (1, -1) = #
+Checking point 7, 1 (0, -1) = #
+Checking point 6, 1 (-1, -1) = .
+Checking point 5, 0 (-1, -1) = #
+Point 7, 2 has seats taken in 8 directions
+POint 7, 3
+Checking point 6, 3 (-1, 0) = .
+Checking point 5, 3 (-1, 0) = #
+Checking point 6, 4 (-1, 1) = #
+Checking point 7, 4 (0, 1) = #
+Checking point 8, 4 (1, 1) = #
+Checking point 8, 3 (1, 0) = #
+Checking point 8, 2 (1, -1) = #
+Checking point 7, 2 (0, -1) = #
+Checking point 6, 2 (-1, -1) = #
+Point 7, 3 has seats taken in 8 directions
+POint 7, 4
+Checking point 6, 4 (-1, 0) = #
+Checking point 6, 5 (-1, 1) = .
+Checking point 5, 6 (-1, 1) = #
+Checking point 7, 5 (0, 1) = #
+Checking point 8, 5 (1, 1) = #
+Checking point 8, 4 (1, 0) = #
+Checking point 8, 3 (1, -1) = #
+Checking point 7, 3 (0, -1) = #
+Checking point 6, 3 (-1, -1) = .
+Checking point 5, 2 (-1, -1) = #
+Point 7, 4 has seats taken in 8 directions
+POint 7, 5
+Checking point 6, 5 (-1, 0) = .
+Checking point 5, 5 (-1, 0) = #
+Checking point 6, 6 (-1, 1) = .
+Checking point 5, 7 (-1, 1) = .
+Checking point 4, 8 (-1, 1) = #
+Checking point 7, 6 (0, 1) = #
+Checking point 8, 6 (1, 1) = #
+Checking point 8, 5 (1, 0) = #
+Checking point 8, 4 (1, -1) = #
+Checking point 7, 4 (0, -1) = #
+Checking point 6, 4 (-1, -1) = #
+Point 7, 5 has seats taken in 8 directions
+POint 7, 6
+Checking point 6, 6 (-1, 0) = .
+Checking point 5, 6 (-1, 0) = #
+Checking point 6, 7 (-1, 1) = .
+Checking point 5, 8 (-1, 1) = #
+Checking point 7, 7 (0, 1) = #
+Checking point 8, 7 (1, 1) = #
+Checking point 8, 6 (1, 0) = #
+Checking point 8, 5 (1, -1) = #
+Checking point 7, 5 (0, -1) = #
+Checking point 6, 5 (-1, -1) = .
+Checking point 5, 4 (-1, -1) = #
+Point 7, 6 has seats taken in 8 directions
+POint 7, 7
+Checking point 6, 7 (-1, 0) = .
+Checking point 5, 7 (-1, 0) = .
+Checking point 4, 7 (-1, 0) = .
+Checking point 3, 7 (-1, 0) = .
+Checking point 2, 7 (-1, 0) = #
+Checking point 6, 8 (-1, 1) = .
+Checking point 5, 9 (-1, 1) = #
+Checking point 7, 8 (0, 1) = #
+Checking point 8, 8 (1, 1) = .
+Checking point 9, 9 (1, 1) = #
+Checking point 8, 7 (1, 0) = #
+Checking point 8, 6 (1, -1) = #
+Checking point 7, 6 (0, -1) = #
+Checking point 6, 6 (-1, -1) = .
+Checking point 5, 5 (-1, -1) = #
+Point 7, 7 has seats taken in 8 directions
+POint 7, 8
+Checking point 6, 8 (-1, 0) = .
+Checking point 5, 8 (-1, 0) = #
+Checking point 6, 9 (-1, 1) = .
+Checking point 7, 9 (0, 1) = #
+Checking point 8, 9 (1, 1) = #
+Checking point 8, 8 (1, 0) = .
+Checking point 9, 8 (1, 0) = #
+Checking point 8, 7 (1, -1) = #
+Checking point 7, 7 (0, -1) = #
+Checking point 6, 7 (-1, -1) = .
+Checking point 5, 6 (-1, -1) = #
+Point 7, 8 has seats taken in 7 directions
+POint 7, 9
+Checking point 6, 9 (-1, 0) = .
+Checking point 5, 9 (-1, 0) = #
+Checking point 8, 9 (1, 0) = #
+Checking point 8, 8 (1, -1) = .
+Checking point 9, 7 (1, -1) = .
+Checking point 7, 8 (0, -1) = #
+Checking point 6, 8 (-1, -1) = .
+Checking point 5, 7 (-1, -1) = .
+Checking point 4, 6 (-1, -1) = #
+Point 7, 9 has seats taken in 4 directions
+POint 8, 0
+Checking point 7, 0 (-1, 0) = #
+Checking point 7, 1 (-1, 1) = #
+Checking point 8, 1 (0, 1) = .
+Checking point 8, 2 (0, 1) = #
+Checking point 9, 1 (1, 1) = .
+Checking point 9, 0 (1, 0) = #
+Point 8, 0 has seats taken in 4 directions
+POint 8, 1
+Checking point 7, 1 (-1, 0) = #
+Checking point 7, 2 (-1, 1) = #
+Checking point 8, 2 (0, 1) = #
+Checking point 9, 2 (1, 1) = #
+Checking point 9, 1 (1, 0) = .
+Checking point 9, 0 (1, -1) = #
+Checking point 8, 0 (0, -1) = #
+Checking point 7, 0 (-1, -1) = #
+Point 8, 1 has seats taken in 7 directions
+POint 8, 2
+Checking point 7, 2 (-1, 0) = #
+Checking point 7, 3 (-1, 1) = #
+Checking point 8, 3 (0, 1) = #
+Checking point 9, 3 (1, 1) = #
+Checking point 9, 2 (1, 0) = #
+Checking point 9, 1 (1, -1) = .
+Checking point 8, 1 (0, -1) = .
+Checking point 8, 0 (0, -1) = #
+Checking point 7, 1 (-1, -1) = #
+Point 8, 2 has seats taken in 7 directions
+POint 8, 3
+Checking point 7, 3 (-1, 0) = #
+Checking point 7, 4 (-1, 1) = #
+Checking point 8, 4 (0, 1) = #
+Checking point 9, 4 (1, 1) = #
+Checking point 9, 3 (1, 0) = #
+Checking point 9, 2 (1, -1) = #
+Checking point 8, 2 (0, -1) = #
+Checking point 7, 2 (-1, -1) = #
+Point 8, 3 has seats taken in 8 directions
+POint 8, 4
+Checking point 7, 4 (-1, 0) = #
+Checking point 7, 5 (-1, 1) = #
+Checking point 8, 5 (0, 1) = #
+Checking point 9, 5 (1, 1) = #
+Checking point 9, 4 (1, 0) = #
+Checking point 9, 3 (1, -1) = #
+Checking point 8, 3 (0, -1) = #
+Checking point 7, 3 (-1, -1) = #
+Point 8, 4 has seats taken in 8 directions
+POint 8, 5
+Checking point 7, 5 (-1, 0) = #
+Checking point 7, 6 (-1, 1) = #
+Checking point 8, 6 (0, 1) = #
+Checking point 9, 6 (1, 1) = #
+Checking point 9, 5 (1, 0) = #
+Checking point 9, 4 (1, -1) = #
+Checking point 8, 4 (0, -1) = #
+Checking point 7, 4 (-1, -1) = #
+Point 8, 5 has seats taken in 8 directions
+POint 8, 6
+Checking point 7, 6 (-1, 0) = #
+Checking point 7, 7 (-1, 1) = #
+Checking point 8, 7 (0, 1) = #
+Checking point 9, 7 (1, 1) = .
+Checking point 9, 6 (1, 0) = #
+Checking point 9, 5 (1, -1) = #
+Checking point 8, 5 (0, -1) = #
+Checking point 7, 5 (-1, -1) = #
+Point 8, 6 has seats taken in 7 directions
+POint 8, 7
+Checking point 7, 7 (-1, 0) = #
+Checking point 7, 8 (-1, 1) = #
+Checking point 8, 8 (0, 1) = .
+Checking point 8, 9 (0, 1) = #
+Checking point 9, 8 (1, 1) = #
+Checking point 9, 7 (1, 0) = .
+Checking point 9, 6 (1, -1) = #
+Checking point 8, 6 (0, -1) = #
+Checking point 7, 6 (-1, -1) = #
+Point 8, 7 has seats taken in 7 directions
+POint 8, 8
+Checking point 7, 8 (-1, 0) = #
+Checking point 7, 9 (-1, 1) = #
+Checking point 8, 9 (0, 1) = #
+Checking point 9, 9 (1, 1) = #
+Checking point 9, 8 (1, 0) = #
+Checking point 9, 7 (1, -1) = .
+Checking point 8, 7 (0, -1) = #
+Checking point 7, 7 (-1, -1) = #
+Point 8, 8 has seats taken in 7 directions
+POint 8, 9
+Checking point 7, 9 (-1, 0) = #
+Checking point 9, 9 (1, 0) = #
+Checking point 9, 8 (1, -1) = #
+Checking point 8, 8 (0, -1) = .
+Checking point 8, 7 (0, -1) = #
+Checking point 7, 8 (-1, -1) = #
+Point 8, 9 has seats taken in 5 directions
+POint 9, 0
+Checking point 8, 0 (-1, 0) = #
+Checking point 8, 1 (-1, 1) = .
+Checking point 7, 2 (-1, 1) = #
+Checking point 9, 1 (0, 1) = .
+Checking point 9, 2 (0, 1) = #
+Point 9, 0 has seats taken in 3 directions
+POint 9, 1
+Checking point 8, 1 (-1, 0) = .
+Checking point 7, 1 (-1, 0) = #
+Checking point 8, 2 (-1, 1) = #
+Checking point 9, 2 (0, 1) = #
+Checking point 9, 0 (0, -1) = #
+Checking point 8, 0 (-1, -1) = #
+Point 9, 1 has seats taken in 5 directions
+POint 9, 2
+Checking point 8, 2 (-1, 0) = #
+Checking point 8, 3 (-1, 1) = #
+Checking point 9, 3 (0, 1) = #
+Checking point 9, 1 (0, -1) = .
+Checking point 9, 0 (0, -1) = #
+Checking point 8, 1 (-1, -1) = .
+Checking point 7, 0 (-1, -1) = #
+Point 9, 2 has seats taken in 5 directions
+POint 9, 3
+Checking point 8, 3 (-1, 0) = #
+Checking point 8, 4 (-1, 1) = #
+Checking point 9, 4 (0, 1) = #
+Checking point 9, 2 (0, -1) = #
+Checking point 8, 2 (-1, -1) = #
+Point 9, 3 has seats taken in 5 directions
+POint 9, 4
+Checking point 8, 4 (-1, 0) = #
+Checking point 8, 5 (-1, 1) = #
+Checking point 9, 5 (0, 1) = #
+Checking point 9, 3 (0, -1) = #
+Checking point 8, 3 (-1, -1) = #
+Point 9, 4 has seats taken in 5 directions
+POint 9, 5
+Checking point 8, 5 (-1, 0) = #
+Checking point 8, 6 (-1, 1) = #
+Checking point 9, 6 (0, 1) = #
+Checking point 9, 4 (0, -1) = #
+Checking point 8, 4 (-1, -1) = #
+Point 9, 5 has seats taken in 5 directions
+POint 9, 6
+Checking point 8, 6 (-1, 0) = #
+Checking point 8, 7 (-1, 1) = #
+Checking point 9, 7 (0, 1) = .
+Checking point 9, 8 (0, 1) = #
+Checking point 9, 5 (0, -1) = #
+Checking point 8, 5 (-1, -1) = #
+Point 9, 6 has seats taken in 5 directions
+POint 9, 7
+Checking point 8, 7 (-1, 0) = #
+Checking point 8, 8 (-1, 1) = .
+Checking point 7, 9 (-1, 1) = #
+Checking point 9, 8 (0, 1) = #
+Checking point 9, 6 (0, -1) = #
+Checking point 8, 6 (-1, -1) = #
+Point 9, 7 has seats taken in 5 directions
+POint 9, 8
+Checking point 8, 8 (-1, 0) = .
+Checking point 7, 8 (-1, 0) = #
+Checking point 8, 9 (-1, 1) = #
+Checking point 9, 9 (0, 1) = #
+Checking point 9, 7 (0, -1) = .
+Checking point 9, 6 (0, -1) = #
+Checking point 8, 7 (-1, -1) = #
+Point 9, 8 has seats taken in 5 directions
+POint 9, 9
+Checking point 8, 9 (-1, 0) = #
+Checking point 9, 8 (0, -1) = #
+Checking point 8, 8 (-1, -1) = .
+Checking point 7, 7 (-1, -1) = #
+Point 9, 9 has seats taken in 3 directions
+---------------
+['#', '.', 'L', 'L', '.', 'L', 'L', '.', 'L', '#']
+['#', 'L', 'L', 'L', 'L', 'L', 'L', '.', 'L', 'L']
+['L', '.', 'L', '.', 'L', '.', '.', 'L', '.', '.']
+['L', 'L', 'L', 'L', '.', 'L', 'L', '.', 'L', 'L']
+['L', '.', 'L', 'L', '.', 'L', 'L', '.', 'L', 'L']
+['L', '.', 'L', 'L', 'L', 'L', 'L', '.', 'L', 'L']
+['.', '.', 'L', '.', 'L', '.', '.', '.', '.', '.']
+['L', 'L', 'L', 'L', 'L', 'L', 'L', 'L', 'L', '#']
+['#', '.', 'L', 'L', 'L', 'L', 'L', 'L', '.', 'L']
+['#', '.', 'L', 'L', 'L', 'L', 'L', '.', 'L', '#']
+After 2 rounds, 7 seats have been taken
