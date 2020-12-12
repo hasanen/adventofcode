@@ -1,8 +1,13 @@
-use std::collections::HashMap;
 use std::env;
 use std::fs;
 
-#[derive(Debug)]
+const DIRECTIONS: [Direction; 4] = [
+    Direction::NORTH,
+    Direction::EAST,
+    Direction::SOUTH,
+    Direction::WEST,
+];
+#[derive(Debug, Clone, Copy)]
 enum Direction {
     NORTH,
     EAST,
@@ -52,20 +57,52 @@ impl Ship {
     }
     fn sail_to(&mut self, instruction: Instruction) {
         match instruction.direction {
-            Direction::NORTH => self.x += instruction.value as isize,
-            Direction::EAST => self.y += instruction.value as isize,
-            Direction::SOUTH => self.x -= instruction.value as isize,
-            Direction::WEST => self.y -= instruction.value as isize,
-            Direction::RIGHT => (),
-            Direction::LEFT => (),
-            Direction::FORWARD => match self.direction {
-                Direction::NORTH => self.x += instruction.value as isize,
-                Direction::EAST => self.y += instruction.value as isize,
-                Direction::SOUTH => self.x -= instruction.value as isize,
-                Direction::WEST => self.y -= instruction.value as isize,
-                _ => (),
-            },
+            Direction::NORTH | Direction::EAST | Direction::SOUTH | Direction::WEST => {
+                self.movemove(instruction.direction, instruction.value as isize)
+            }
+            Direction::RIGHT | Direction::LEFT => {
+                self.turn_ship(instruction.direction, instruction.value);
+            }
+            Direction::FORWARD => self.movemove(self.direction, instruction.value as isize),
             Direction::NONE => (),
+        }
+        // println!(
+        //     "Ship' x: {}, Y: {}, dir: {:?}",
+        //     self.x, self.y, self.direction
+        // );
+    }
+
+    fn turn_ship(&mut self, direction: Direction, value: usize) {
+        let steps: isize = value as isize / 90;
+        let mut index: isize = match self.direction {
+            Direction::NORTH => 0,
+            Direction::EAST => 1,
+            Direction::SOUTH => 2,
+            Direction::WEST => 3,
+            _ => 0,
+        };
+        match direction {
+            Direction::LEFT => index -= steps,
+            Direction::RIGHT => index += steps,
+            _ => {}
+        };
+
+        if index < 0 {
+            index += 4
+        }
+        if index > 3 {
+            index -= 4
+        }
+        self.direction = DIRECTIONS[index as usize];
+    }
+
+    fn movemove(&mut self, direction: Direction, value: isize) {
+        match direction {
+            Direction::NORTH => self.x += value,
+            Direction::EAST => self.y += value,
+            Direction::SOUTH => self.x -= value,
+            Direction::WEST => self.y -= value,
+            _ => (),
         }
     }
 }
