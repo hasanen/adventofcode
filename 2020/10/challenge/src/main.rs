@@ -61,11 +61,12 @@ fn challenge2(mut adapters: Vec<usize>) {
 fn try_to_remove_one(set_of_paths: &mut HashSet<Vec<usize>>, paths_to_check: &HashSet<Vec<usize>>) {
     let mut new_paths = HashSet::new();
     for path in paths_to_check.clone().iter() {
-        for (i, x) in path.iter().enumerate() {
+        for (i, _) in path.iter().enumerate() {
             if i == 0 || i == path.len() - 1 {
                 continue;
             }
-            let numbers: Vec<_> = path.iter().filter(|n| n != &x).map(|n| *n).collect();
+            let mut numbers = path.to_vec();
+            numbers.remove(i);
             if !set_of_paths.contains(&numbers) && valid_path(&numbers) {
                 new_paths.insert(numbers.to_vec());
             }
