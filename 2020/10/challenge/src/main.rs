@@ -49,16 +49,11 @@ fn challenge2(mut adapters: Vec<usize>) {
 
     let mut set_of_paths = HashSet::new();
     set_of_paths.insert(adapters.to_vec());
-    let clone = set_of_paths.clone();
-    try_to_remove_one(&mut set_of_paths, &clone);
-    println!(
-        "Challenge 2: {}, took {:?}",
-        set_of_paths.len(),
-        start.elapsed()
-    );
+    let num_of_paths = try_to_remove_one(&set_of_paths) + 1;
+    println!("Challenge 2: {}, took {:?}", num_of_paths, start.elapsed());
 }
 
-fn try_to_remove_one(set_of_paths: &mut HashSet<Vec<usize>>, paths_to_check: &HashSet<Vec<usize>>) {
+fn try_to_remove_one(paths_to_check: &HashSet<Vec<usize>>) -> usize {
     let mut new_paths = HashSet::new();
     for path in paths_to_check.clone().iter() {
         for (i, _) in path.iter().enumerate() {
@@ -67,14 +62,15 @@ fn try_to_remove_one(set_of_paths: &mut HashSet<Vec<usize>>, paths_to_check: &Ha
             }
             let mut numbers = path.to_vec();
             numbers.remove(i);
-            if !set_of_paths.contains(&numbers) && valid_path(&numbers) {
+            if valid_path(&numbers) {
                 new_paths.insert(numbers.to_vec());
             }
         }
     }
     if new_paths.len() > 0 {
-        set_of_paths.extend(new_paths.clone());
-        try_to_remove_one(set_of_paths, &new_paths);
+        return new_paths.len() + try_to_remove_one(&new_paths);
+    } else {
+        return 0;
     }
 }
 
