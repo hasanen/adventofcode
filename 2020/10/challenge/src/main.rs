@@ -48,22 +48,22 @@ fn challenge2(mut adapters: Vec<usize>) {
     adapters.sort();
 
     let mut set_of_paths = HashSet::new();
-    set_of_paths.insert(adapters.to_vec());
+    set_of_paths.insert(adapters);
     let num_of_paths = try_to_remove_one(&set_of_paths) + 1;
     println!("Challenge 2: {}, took {:?}", num_of_paths, start.elapsed());
 }
 
 fn try_to_remove_one(paths_to_check: &HashSet<Vec<usize>>) -> usize {
     let mut new_paths = HashSet::new();
-    for path in paths_to_check.clone().iter() {
+    for path in paths_to_check.iter() {
+        let last_index = path.len() - 1;
         for (i, _) in path.iter().enumerate() {
-            if i == 0 || i == path.len() - 1 {
+            if i == 0 || i == last_index {
                 continue;
             }
-            let mut numbers = path.to_vec();
-            numbers.remove(i);
+            let numbers = [&path[..i], &path[i + 1..]].concat();
             if valid_path(&numbers) {
-                new_paths.insert(numbers.to_vec());
+                new_paths.insert(numbers);
             }
         }
     }
