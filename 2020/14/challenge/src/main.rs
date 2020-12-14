@@ -43,9 +43,16 @@ impl Operation {
         for (i, bit) in mask.value.chars().enumerate() {
             match bit {
                 'X' => {
-                    let position = mask.value.len() - i - 1;
-                    let new_bit = self.value.chars().nth(position).unwrap_or('0');
-                    result.push(new_bit)
+                    if i + self.value.len() < mask.value.len() {
+                        result.push('0')
+                    } else {
+                        result.push(
+                            self.value
+                                .chars()
+                                .nth((i + self.value.len()) - mask.value.len())
+                                .unwrap_or('0'),
+                        )
+                    }
                 }
                 '0' | '1' => result.push(bit),
                 _ => (),
@@ -87,6 +94,5 @@ fn main() {
             }
         }
     }
-    println!("Sum of all values is {:?}", memory);
     println!("Sum of all values is {}", memory.total_values());
 }
